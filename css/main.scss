@@ -47,17 +47,3 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
-
-html {
-  background: $background-color url(/assets/images/background.jpg) no-repeat center center fixed;
-  background-size: cover;
-  height: 100%;
-}
-
-body {
-  color: $text-color;
-  width: 100%;
-  background: rgba(0, 0, 0, 0.75);
-  min-height: 100%;
-}
-

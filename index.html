@@ -2,22 +2,20 @@
 layout: default
 ---
 
-<div class="home">
+  <div class="intro">
+    <h1 class="intro__tagline">48 Stunden voller neuer Ideen für die Fahrradstadt Berlin</h1>
+    <time class="intro__date">24. bis 26. Juni 2016</time>
+  </div>
 
-  <h1 class="page-heading">Posts</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi.</p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <form class="subscription-form" action="" method="post" target="_blank" novalidate>
+    <input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="Email-Addresse" required>
+    <button type="submit" name="subscribe" id="mc-embedded-subscribe">abonnieren</button>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    <p class="subscription-form__smallprint">Für diesen Verteiler verwenden wir Mailchimp, dessen <a href="http://mailchimp.com/legal/privacy/" target="_blank">Privacy Policy</a> du hier einsehen kannst. Deine Email-Adressen wird von uns ausschliesslich zur Information über den Cyclehack Berlin genutzt und nicht an Dritte weitergegeben.</p>
+  </form>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>

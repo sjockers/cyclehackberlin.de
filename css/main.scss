@@ -6,16 +6,18 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
+$base-font-family: 'Cooper Hewitt', Helvetica, Arial, sans-serif;
+$base-font-size:   24px;
+$small-font-size:  16px;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
 $text-color:       #fff;
 $background-color: #294435;
-$brand-color:      #2a7ae2;
+
+$brand-color:      #81c5a3;
+$hilight-color:    #f4764d;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -42,6 +44,7 @@ $on-laptop:        1140px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "fonts",
         "base",
         "layout",
         "syntax-highlighting"

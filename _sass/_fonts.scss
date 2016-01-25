@@ -1,0 +1,30 @@
+$cooper-hewitt-book: '/assets/fonts/CooperHewitt/CooperHewitt-Book';
+$cooper-hewitt-semibold: '/assets/fonts/CooperHewitt/CooperHewitt-Semibold';
+$cooper-hewitt-heavy: '/assets/fonts/CooperHewitt/CooperHewitt-Heavy';
+
+@mixin webfont-src($path) {
+  src: url('#{$path}.eot'); /* IE9 Compat Modes */
+  src: url('#{$path}.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$path}.woff') format('woff'), /* Pretty Modern Browsers */
+       url('#{$path}.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('#{$path}.svg#svgCooperHewitt') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt';
+  font-style: normal;
+  font-weight: 400;
+  @include webfont-src($cooper-hewitt-book);
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt';
+  font-weight: 600;
+  @include webfont-src($cooper-hewitt-semibold);
+}
+
+@font-face {
+  font-family: 'Cooper Hewitt';
+  font-weight: 900;
+  @include webfont-src($cooper-hewitt-heavy);
+}

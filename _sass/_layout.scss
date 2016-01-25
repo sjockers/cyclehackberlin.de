@@ -1,4 +1,3 @@
-
 html {
   background: $background-color url(/assets/images/background.jpg) no-repeat center center fixed;
   background-size: cover;
@@ -13,6 +12,68 @@ body {
   padding: 70px;
 
   @include media-query($on-tablet) {
-    max-width: $on-tablet;
+    max-width: 660px;
   }
+}
+
+
+.intro {
+  border-bottom: 1px solid white;
+  padding: 20px 0;
+  margin: 25px 0;
+}
+
+.intro__tagline {
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+
+  @include media-query($on-tablet) {
+    font-size: 42px;
+  }
+}
+
+.intro__date {
+  @extend .intro__tagline;
+  color: $brand-color;
+}
+
+
+.subscription-form {
+  padding: 25px 0 0 0;
+  margin: 20px 0 0 0;
+  display: block;
+  border-top: 1px solid white;
+
+  input {
+    border: 1px solid #333;
+    background: white;
+    font-size: $base-font-size;
+    font-family: $base-font-family;
+    padding: 10px 20px 0 20px;
+    height: 70px;
+    vertical-align: middle;
+  }
+
+  button {
+    @extend input;
+    background-color: $hilight-color;
+    transition: background-color 300ms;
+    color: white;
+
+    &:hover,
+    &:active,
+    &:focus {
+      background-color: darken($hilight-color, 10);
+      cursor: pointer;
+    }
+  }
+}
+
+.subscription-form__smallprint {
+  margin-top: 25px;
+  font-size: $small-font-size;
 }

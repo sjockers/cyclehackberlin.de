@@ -9,13 +9,24 @@ body {
   width: 100%;
   background: rgba(0, 0, 0, 0.75);
   min-height: 100%;
-  padding: 70px;
+  padding: 50px 70px;
 
   @include media-query($on-tablet) {
     max-width: 660px;
   }
 }
 
+.main-logo {
+  margin: 0;
+  padding: 0;
+  display: block;
+  width: 140px;
+  height: 130px;
+  background: url(/assets/images/logo-cyclehack-global.svg) no-repeat center center;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
 
 .intro {
   border-bottom: 1px solid white;
@@ -54,6 +65,7 @@ body {
     font-size: $base-font-size;
     font-family: $base-font-family;
     padding: 10px 20px 0 20px;
+    margin: 0 10px 0 0;
     height: 70px;
     vertical-align: middle;
   }

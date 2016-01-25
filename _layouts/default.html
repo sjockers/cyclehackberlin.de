@@ -5,13 +5,20 @@
 
   <body>
 
-    {% include header.html %}
+    <header class="header">
+      <a class="main-logo" href="/">
+        <h1 >Cyclehack Berlin</h1>
+      </a>
 
-    <main class="page-content">
-      <div class="container">
-        {{ content }}
-      </div>
-    </main>
+     {% if page.language == 'en' %}
+        <a class="language" href='/'>Deutsch</a>
+      {% else %}
+        <a class="language" href='/en/'>English</a>
+      {% endif %}
+
+    </header>
+
+    {{ content }}
 
     {% include footer.html %}
 

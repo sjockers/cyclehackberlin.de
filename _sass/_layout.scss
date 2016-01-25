@@ -89,3 +89,58 @@ body {
   margin-top: 25px;
   font-size: $small-font-size;
 }
+
+.footer {
+  padding: 25px 0 0 0;
+  margin: 60px 0 0 0;
+  border-top: 1px solid white;
+  font-size: $small-font-size;
+
+  ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+
+    &:before {
+      content: '|';
+      padding: 0 7px;
+    }
+  }
+}
+
+.language {
+  position: absolute;
+  float: right;
+  right: 0;
+  top: 0;
+  padding: 10px 15px 5px 15px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: $small-font-size;
+  line-height: 1;
+  font-weight: 600;
+
+  &:link,
+  &:visited {
+    background: $brand-color;
+    transition: background-color 300ms;
+    color: black;
+  }
+
+  &:hover,
+  &:active,
+  &:focus {
+    background: lighten($brand-color, 15);
+  }
+}
+
+.header {
+  position: relative;
+}

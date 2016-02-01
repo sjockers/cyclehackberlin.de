@@ -64,9 +64,10 @@ body {
     background: white;
     font-size: $base-font-size;
     font-family: $base-font-family;
-    padding: 10px 20px 0 20px;
-    margin: 0 10px 0 0;
-    height: 70px;
+    padding: 5px 15px 0 15px;
+    margin: 0 5px 0 0;
+    height: 60px;
+    width: 290px;
     vertical-align: middle;
   }
 
@@ -75,6 +76,8 @@ body {
     background-color: $hilight-color;
     transition: background-color 300ms;
     color: white;
+    border-radius: 5px;
+    width: auto;
 
     &:hover,
     &:active,

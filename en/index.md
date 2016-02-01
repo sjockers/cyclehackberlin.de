@@ -3,14 +3,14 @@ layout: home
 language: en
 
 intro:
-  tagline: 48 hours to break the barriers to cycling in Berlin
-  date: 24. bis 26. Juni 2016
+  tagline: 48 hours of hacking to reduce the barriers to cycling in Berlin
+  date: June 24 to 26, 2016
 
 form:
   email: Email address
-  submit: subscribe
+  submit: Receive updates!
   smallprint: "Your email will only be used to send you updates about Cyclehack Berlin. We use Mailchimp to send out updates. See their <a href='http://mailchimp.com/legal/privacy/' target='_blank'>Privacy Policy</a>."
 ---
 
-Cycling freedom is within your reach. For a more sustainable future, join the movement.
+Together, we develop ideas, prototypes and campaigns that address the barriers to cycling. Join the movement!
 

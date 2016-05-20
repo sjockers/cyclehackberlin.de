@@ -2,20 +2,53 @@
 layout: default
 ---
 
-<div class="intro">
-  <h2 class="intro__tagline">{{ page.intro.tagline }}</h2>
-  <time class="intro__date">{{ page.intro.date }}</time>
-</div>
+<section class="section section--intro">
 
-{{ content }}
+  <div class="container">
 
-<!-- Begin MailChimp Signup Form -->
-  <form action="//cyclehackberlin.us12.list-manage.com/subscribe/post?u=a154d00c175951d36a67055fb&amp;id=f7cbc72d0b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="subscription-form" target="_blank" novalidate>
-    <input type="email" value="" name="EMAIL" placeholder="{{ page.form.email }}" id="mce-EMAIL">
-    <div style="position: absolute; left: -5000px;" aria-hidden="true">
-      <input type="text" name="b_a154d00c175951d36a67055fb_f7cbc72d0b" tabindex="-1" value="">
+    <header class="header">
+      <a class="main-logo" href="/">
+        <h1 >Cyclehack Berlin</h1>
+      </a>
+
+     {% if page.language == 'en' %}
+        <a class="language" href='/'>Deutsch</a>
+      {% else %}
+        <a class="language" href='/en/'>English</a>
+      {% endif %}
+    </header>
+
+    <div class="intro">
+      <h2 class="intro__tagline">{{ page.intro.tagline }}</h2>
+      <time class="intro__date">{{ page.intro.date }}</time>
+      <a href="" class="call-to-action">{{ page.intro.cta }}</a>
     </div>
-    <button type="submit" name="subscribe" id="mc-embedded-subscribe">{{ page.form.submit }}</button>
-    <p class="subscription-form__smallprint">{{ page.form.smallprint }}</p>
-  </form>
-<!--End mc_embed_signup-->
+
+  </div>
+
+</section>
+
+<section class="section">
+
+  <div class="container">
+    {{ content }}
+  </div>
+
+</section>
+
+<section class="section">
+
+  <div class="container">
+  <!-- Begin MailChimp Signup Form -->
+    <form action="//cyclehackberlin.us12.list-manage.com/subscribe/post?u=a154d00c175951d36a67055fb&amp;id=f7cbc72d0b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="subscription-form" target="_blank" novalidate>
+      <input type="email" value="" name="EMAIL" placeholder="{{ page.form.email }}" id="mce-EMAIL">
+      <div style="position: absolute; left: -5000px;" aria-hidden="true">
+        <input type="text" name="b_a154d00c175951d36a67055fb_f7cbc72d0b" tabindex="-1" value="">
+      </div>
+      <button type="submit" name="subscribe" id="mc-embedded-subscribe">{{ page.form.submit }}</button>
+      <p class="subscription-form__smallprint">{{ page.form.smallprint }}</p>
+    </form>
+  <!--End mc_embed_signup-->
+  </div>
+
+</section>

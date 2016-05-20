@@ -1,48 +1,89 @@
-html {
-  background: $background-color url(/assets/images/background.jpg) no-repeat center center fixed;
-  background-size: cover;
-  height: 100%;
-}
-
-body {
-  color: $text-color;
+.container {
   width: 100%;
-  background: rgba(0, 0, 0, 0.75);
-  min-height: 100%;
-  padding: 50px 70px;
+  padding: 0 $spacing-unit;
+  margin: 0 auto;
 
-  @include media-query($on-tablet) {
-    max-width: 660px;
+  @include media-query($screen-sm) {
+    max-width: $screen-sm;
+  }
+
+  @include media-query($screen-md) {
+    max-width: $screen-md;
+  }
+
+  @include media-query($screen-lg) {
+    max-width: $screen-lg;
   }
 }
 
+.call-to-action {
+  display: inline-block;
+  padding: $spacing-unit/2 $spacing-unit;
+  margin: $spacing-unit 0;
+  border-radius: 5px;
+
+  &:link, &:visited {
+    color: white;
+    border: 2px solid white;
+    text-decoration: none;
+  }
+
+  &:hover, &:active, &:focus {
+    color: $hilight-color;
+    border-color: $hilight-color;
+  }
+}
+
+.section {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+  width: 100%;
+  padding: $spacing-unit 0;
+}
+
+.section--intro {
+  background-image: url(/assets/images/background.jpg);
+  box-shadow: inset 0 -100px 500px -100px black;
+}
+
+.section__call-to-action {
+
+}
+
 .main-logo {
-  margin: 0 0 20px 0;
-  padding: 0;
   display: block;
-  width: 140px;
-  height: 130px;
-  background: url(/assets/images/logo-cyclehack-global.svg) no-repeat center center;
+  width: 170px;
+  height: 170px;
+  margin: $spacing-unit 0;
+  padding: 0;
+  background: url(/assets/images/logo-cyclehack-berlin.svg) no-repeat center center;
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
 }
 
 .intro {
-  border-bottom: 1px solid white;
-  padding: 20px 0;
-  margin: 25px 0;
+  padding: $spacing-unit 0;
+
+  @include media-query($screen-md) {
+    max-width: $screen-sm;
+  }
 }
 
 .intro__tagline {
+  margin: 0;
+  padding: 0;
   font-size: 24px;
   line-height: 1.2;
   font-weight: 900;
   text-transform: uppercase;
-  margin: 0;
-  padding: 0;
+  color: white;
 
-  @include media-query($on-tablet) {
+
+  @include media-query($screen-md) {
     font-size: 42px;
   }
 }

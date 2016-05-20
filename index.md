@@ -4,6 +4,7 @@ layout: home
 intro:
   tagline: 48 Stunden voller neuer Ideen für die Fahrradstadt Berlin
   date: 24. bis 26. Juni 2016
+  cta: Mehr erfahren
 
 form:
   email: Email-Addresse

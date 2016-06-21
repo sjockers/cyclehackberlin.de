@@ -1,0 +1,26 @@
+
+.language {
+  position: absolute;
+  float: right;
+  right: 0;
+  top: 0;
+  padding: 10px 15px 5px 15px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: $small-font-size;
+  line-height: 1;
+  font-weight: 600;
+
+  &:link,
+  &:visited {
+    background: $brand-color;
+    transition: background-color 300ms;
+    color: black;
+  }
+
+  &:hover,
+  &:active,
+  &:focus {
+    background: lighten($brand-color, 15);
+  }
+}

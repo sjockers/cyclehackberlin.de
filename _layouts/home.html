@@ -5,33 +5,84 @@ layout: default
 <section class="section section--intro">
 
   <div class="container">
+    <div class="section__main teaser">
+      <header class="header">
+        <a class="main-logo" href="/">
+          <h1 >Cyclehack Berlin</h1>
+        </a>
+      </header>
 
-    <header class="header">
-      <a class="main-logo" href="/">
-        <h1 >Cyclehack Berlin</h1>
-      </a>
-
-     {% if page.language == 'en' %}
-        <a class="language" href='/'>Deutsch</a>
-      {% else %}
-        <a class="language" href='/en/'>English</a>
-      {% endif %}
-    </header>
-
-    <div class="intro">
-      <h2 class="intro__tagline">{{ page.intro.tagline }}</h2>
-      <time class="intro__date">{{ page.intro.date }}</time>
-      <a href="" class="call-to-action">{{ page.intro.cta }}</a>
+      <div class="intro">
+        <h2 class="intro__tagline">{{ page.intro.tagline }}</h2>
+        <time class="intro__date">{{ page.intro.date }}</time>
+        <a href="" class="call-to-action--primary">{{ page.intro.join }}</a>
+        <a href="" class="call-to-action--secondary">{{ page.intro.more }}</a>
+      </div>
     </div>
 
+    {% if page.language == 'en' %}
+      <a class="language" href='/'>Deutsch</a>
+    {% else %}
+      <a class="language" href='/en/'>English</a>
+    {% endif %}
   </div>
 
 </section>
 
-<section class="section">
+<section class="section section--hilight">
 
   <div class="container">
-    {{ content }}
+
+    <div class="section__main--column teaser">
+      <h1>CycleHack Berlin</h1>
+
+      <p>Vom 24. bis 26. Juni 2016 bringen wir für 48 Stunden Fahrradschrauber, Designer, Aktivisten, Ingenieure, Programmierer, Stadtplaner und viele andere zusammen. Gemeinsam entwickeln wir Ideen, Prototypen und Kampagnen um die alltäglichen Hindernisse abzubauen, die Menschen vom Radfahren abhalten.</p>
+
+      <p>CycleHack ist ein globaler Event, der gleichzeitig in über 30 Städten organisiert wird. In diesem Jahr findet der Event zum dritten Mal statt – und zum ersten Mal in Berlin.</p>
+
+      <a href="" class="call-to-action">
+        Programm und Anmeldung
+      </a>
+
+    </div>
+
+    <aside class="section__sidebar">
+
+      <div class="video">
+        <iframe src="https://player.vimeo.com/video/165950884?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+
+    </aside>
+  </div>
+
+</section>
+
+<section class="section section--description">
+
+  <div class="container">
+
+    <div class="section__main--column">
+      <h1>Was ist ein CycleHack?</h1>
+
+      <p>Ein CycleHack ist eine Idee, die Menschen aufs Rad bringen soll und schnell als Prototyp umgesetzt und getestet werden kann.</p>
+
+      <p>CycleHacks können physische Produkte sein, digitale Anwendungen, Kampagnen, oder Ideen zur Fahrradinfrastruktur. Wir wollen verschiedene Disziplinen und Perspektiven zusammenbringen, um gemeinsam innovative Lösungen zu finden.</p>
+
+      <p>Physische Hacks – Ideen, Basteleien und Prototypen für Produkte, die kleine alltägliche Hindernisse fürs Radfahren abbauen: DIY-Fahrradzubehör, Kleidung und andere Dinge, die das Fahrradfahren besser machen.</p>
+
+      <p>Digitale Hacks – Websites und Apps rund ums Radfahren, Interaktive Visualisierungen auf Basis von Open Data und alles andere, das mit Hardware und Software zu tun hat.</p>
+
+      <p>Aktionen und Kampagnen – Hackt eure Umwelt! Ihr wollt mehr Fahrradwege, bessere Ampelschaltungen und sichere Abstellplätze? Hier geht es um Aktionen und Kampagnen, die für fahrradfreundlichere Städte sorgen.</p>
+
+      <p>Im FabLab Berlin stehen euch Werkzeug, Materialien und Geräte wie 3D-Drucker, Laser-Cutter, und Nähmaschinen zur Verfügung. Außerdem wird es Datensätze zu Fahrradinfrastruktur und Fahrradnutzung in Berlin geben.</p>
+
+      <p>Ihr seid dazu aufgerufen, eure eigenen Ideen, Materialien und Werkzeuge beizusteuern. Bei der Umsetzung eurer Ideen erhaltet ihr Hilfe von sachkundigen Coaches.</p>
+
+      <a href="" class="call-to-action--secondary">
+        Schick uns Deine Idee
+      </a>
+
+    </div>
   </div>
 
 </section>

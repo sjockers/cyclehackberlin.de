@@ -1,0 +1,50 @@
+.call-to-action {
+  display: inline-block;
+  padding: $spacing-unit/2 $spacing-unit;
+  margin: $spacing-unit 0;
+  border-radius: 5px;
+  font-size: 24px;
+  margin-right: $spacing-unit/1.5;
+
+  &:link, &:visited {
+    color: darken($brand-color, 20);
+    border: 2px solid darken($brand-color, 20);
+    text-decoration: none;
+  }
+
+  &:hover, &:active, &:focus {
+    color: $brand-color;
+    border-color: $brand-color;
+  }
+}
+
+.call-to-action--primary {
+  @extend .call-to-action;
+
+  &:link, &:visited {
+    background: darken($brand-color, 20);
+    border-color: darken($brand-color, 20);
+    color: white;
+  }
+
+  &:hover, &:active, &:focus {
+    background: white;
+    border-color: white;
+    color: darken($brand-color, 20);
+  }
+}
+
+.call-to-action--secondary {
+  @extend .call-to-action;
+
+  &:link, &:visited {
+    color: white;
+    border: 2px solid white;
+    text-decoration: none;
+  }
+
+  &:hover, &:active, &:focus {
+    color: $brand-color;
+    border-color: $brand-color;
+  }
+}

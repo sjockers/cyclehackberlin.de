@@ -18,14 +18,15 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $brand-color:      #81c5a3;
-$hilight-color:    #f4764d;
+$hilight-color:    #cf4d44;
 
 $text-color:       $grey-color-dark;
 $background-color: white;
 
 $screen-sm:        480px;
 $screen-md:        768px;
-$screen-lg:        1140px;
+$screen-lg:        1024px;
+$screen-xl:        1140px;
 
 
 // Using media queries with like this:
@@ -48,5 +49,8 @@ $screen-lg:        1140px;
         "fonts",
         "base",
         "layout",
+        "navigation",
+        "video",
+        "call-to-action",
         "syntax-highlighting"
 ;

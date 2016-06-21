@@ -4,7 +4,8 @@ layout: home
 intro:
   tagline: 48 Stunden voller neuer Ideen für die Fahrradstadt Berlin
   date: 24. bis 26. Juni 2016
-  cta: Mehr erfahren
+  more: Mehr erfahren
+  join: Mitmachen
 
 form:
   email: Email-Addresse
@@ -12,4 +13,24 @@ form:
   smallprint: "Deine Email-Adressen wird von uns ausschliesslich zur Information über den Cyclehack Berlin genutzt und nicht an Dritte weitergegeben. Für diesen Verteiler verwenden wir Mailchimp, dessen <a href='http://mailchimp.com/legal/privacy/' target='_blank'>Privacy Policy</a> du hier einsehen kannst."
 ---
 
-Wir entwickeln gemeinsam Ideen, Prototypen und Kampagnen um die alltäglichen Hindernisse abzubauen, die Menschen vom Radfahren abhalten. Macht mit!
+# CycleHack Berlin
+
+Vom 24. bis 26. Juni 2016 bringen wir für 48 Stunden Fahrradschrauber, Designer, Aktivisten, Ingenieure, Programmierer, Stadtplaner und viele andere zusammen. Gemeinsam entwickeln wir Ideen, Prototypen und Kampagnen um die alltäglichen Hindernisse abzubauen, die Menschen vom Radfahren abhalten.
+
+---
+
+# Was ist ein CycleHack?
+
+Ein Hack [*hæk*] ist eine Idee, die direkt umgesetzt und getestet werden kann. Das können ganz unterschiedliche Dinge sein:
+
+Physische Hacks – Ideen, Basteleien und Prototypen für Produkte, die kleine alltägliche Hindernisse fürs Radfahren abbauen. DIY-Schutzbleche zum Ausdrucken oder Fahrradtaschen mit eingebauten Bremslichtern? Der Fantasie sind keine Grenzen gesetzt.
+
+Digitale Hacks – Websites und Apps rund ums Radfahren, Interaktive Visualisierungen auf Basis von Open Data und alles andere, das mit Hardware und Software zu tun hat.
+
+Aktionen und Kampagnen – Hackt eure Umwelt! Ihr wollt mehr Fahrradwege, bessere Ampelschaltungen und sichere Abstellplätze? Hier geht es um Aktionen und Kampagnen, die für fahrradfreundlichere Städte sorgen um noch mehr Menschen aufs Rad bringen.
+
+Wir stellen Werkzeug, Materialien und Geräte wie 3D-Drucker, Laser-Cutter, und Nähmaschinen zur Verfügung. Außerdem wird es Datensätze zu Fahrradinfrastruktur und Fahrradnutzung in Berlin geben. Die Teilnehmerinnen und Teilnehmer steuern selbst Ideen, Materialien und Werkzeuge bei. Bei der Umsetzung ihrer Ideen erhalten sie Hilfe von sachkundigen Coaches.
+
+---
+
+CycleHack ist ein globaler Event, der gleichzeitig in über 30 Städten organisiert wird. 2016 findet der Event weltweit zum dritten Mal statt – und zum ersten Mal in Berlin.

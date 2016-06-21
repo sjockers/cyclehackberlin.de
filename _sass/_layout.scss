@@ -27,6 +27,8 @@
   width: 100%;
   padding: $spacing-unit 0;
   overflow: hidden;
+  background: white;
+  color: black;
 }
 
 .section__main {
@@ -55,17 +57,14 @@
 
 
 .section--intro {
+  background: black;
   background-image: url(/assets/images/background-trafficlight.jpg);
   background-position: left;
   background-attachment: fixed;
+  color: white;
 }
 
-.section--hilight {
-  background: white;
-  color: black;
-}
-
-.section--description {
+.section--about {
   background-image: url(/assets/images/background-alexanderplatz.jpg);
   color: white;
 }

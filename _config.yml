@@ -3,5 +3,3 @@ title: Cyclehack Berlin 2016
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cyclehackberlin.de" # the base hostname & protocol for your site
 
-# Build settings
-markdown: kramdown

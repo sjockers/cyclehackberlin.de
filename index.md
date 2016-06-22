@@ -29,7 +29,7 @@ partners:
   content: Dieses Projekt wird gefördert aus Mitteln des Landes Berlin.
   help_out: Helft mit!
   volunteers: >
-    <p>CycleHack Berlin wird komplett von einem <a href="/contact/#team">Team von Freiwilligen</a> organisiert.</p>
+    <p>CycleHack Berlin wird komplett von Freiwilligen organisiert.</p>
     <p>Du willst uns dabei helfen, dass der Event ein Erfolg wird? Wir suchen Helfer, Coaches und Sponsoren. <a href="mailto:info@cyclehackberlin.de">Melde dich bei uns!</a></p>
 
   gold:

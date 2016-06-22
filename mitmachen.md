@@ -1,11 +1,12 @@
 ---
 layout: join
 
-intro:
-  tagline: 48 Stunden voller neuer Ideen für die Fahrradstadt Berlin
+join:
   date: 24. bis 26. Juni 2016
-  more: Mehr erfahren
-  join: Mitmachen
+  venue: Im Fab Lab Berlin
+  registration: Jetzt Anmelden!
+  schedule: Programm
+  teaser: Wir erarbeiten gemeinsam Ideen, um mehr Menschen aufs Fahrrad zu bringen – in Berlin und anderswo. Macht mit!
 
 schedule:
   - date: Freitag, 24. Juni 2016

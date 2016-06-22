@@ -47,6 +47,14 @@
   color: white;
 }
 
+.section--join {
+  background-color: black;
+  background-image: url(/assets/images/background-join.jpg);
+  background-position: left;
+  background-attachment: fixed;
+  color: white;
+}
+
 .section--ideas {
   background-color: $hilight-color;
   color: white;
@@ -56,5 +64,4 @@
     background-position: right bottom;
     background-size: 39% auto;
   }
-
 }

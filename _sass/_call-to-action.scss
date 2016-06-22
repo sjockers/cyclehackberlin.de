@@ -48,3 +48,19 @@
     border-color: $brand-color;
   }
 }
+
+.call-to-action--highlight {
+  @extend .call-to-action;
+
+  &:link, &:visited {
+    background: $hilight-color;
+    border-color: $hilight-color;
+    color: white;
+  }
+
+  &:hover, &:active, &:focus {
+    background: rgba(0, 0, 0, .5);
+    color: lighten($hilight-color, 0);
+    border-color: lighten($hilight-color, 0);
+  }
+}

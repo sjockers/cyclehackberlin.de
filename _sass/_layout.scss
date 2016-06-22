@@ -32,6 +32,29 @@
   overflow: hidden;
 }
 
+.partners {
+  margin: $spacing-unit/2 0;
+  padding: 0;
+
+  > li {
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.partners__logo {
+  display: inline-block;
+  height: 120px;
+  margin: 0 $spacing-unit/2 $spacing-unit/2 0;
+}
+
+.partners__logo--small {
+  @extend .partners__logo;
+  height: 90px;
+}
+
 .intro {
   padding: 50px 0;
 

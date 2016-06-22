@@ -26,6 +26,39 @@ about:
     <p>Im FabLab Berlin stehen euch Werkzeug, Materialien und Geräte wie 3D-Drucker, Laser-Cutter, und Nähmaschinen zur Verfügung. Außerdem wird es Datensätze zu Fahrradinfrastruktur und Fahrradnutzung in Berlin geben.</p>
     <p>Ihr seid dazu aufgerufen, eure eigenen Ideen, Materialien und Werkzeuge beizusteuern. Bei der Umsetzung eurer Ideen erhaltet ihr Hilfe von sachkundigen Coaches.</p>
 
+partners:
+  title: Partner und Sponsoren
+  content: Dieses Projekt wird gefördert aus Mitteln des Landes Berlin.
+  help_out: Helft mit!
+  volunteers: >
+    <p>CycleHack Berlin wird komplett von einem <a href="/contact/#team">Team von Freiwilligen</a> organisiert.</p>
+    <p>Du willst uns dabei helfen, dass der Event ein Erfolg wird? Wir suchen Helfer, Coaches und Sponsoren. <a href="mailto:info@cyclehackberlin.de">Melde dich bei uns!</a></p>
+
+  gold:
+    - name: DB Open Data
+      logo: dbopendata.png
+      url: http://data.deutschebahn.com/apis/
+    - name: Fab Lab Berlin
+      logo: fablab.png
+      url: https://fablab.berlin/
+    - name: Open Knowledge Foundation Deutschland
+      logo: okf.svg
+      url: https://okfn.de/
+
+  silver:
+    - name: Boreal Bikes
+      logo: borealbikes.png
+      url: https://borealbikes.com/
+    - name: Trafo Pop
+      logo: trafopop.svg
+      url: http://www.trafopop.com/
+    - name: TSB Berlin
+      logo: tsb.png
+      url: https://www.technologiestiftung-berlin.de/
+    - name: Be Berlin
+      logo: berlin.png
+      url: http://sei.berlin.de
+
 form:
   email: Email-Addresse
   submit: Newsletter bestellen

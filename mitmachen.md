@@ -46,7 +46,7 @@ schedule:
 
   - date: Samstag, 25. Juni 2016
     items:
-      - time: "10:00"
+      - time: "09:30"
         name: Einführung und Aufteilung in Teams
       - time: "11:00"
         name: HackTime
@@ -65,12 +65,12 @@ schedule:
 
   - date: Sunday, 26. Juni 2016
     items:
-      - time: "10:00"
-        name: Präsentation von Zwischenergebnisse
+      - time: "09:30"
+        name: Résumé und Kick-Off
       - time: "10:30"
         name: HackTime
         content: Teamarbeit und spontane Workshops
-      - time: "14:00"
+      - time: "13:00"
         name: Gemeinsames Mittagessen
       - time: "15:00"
         name: Präsentation der Ergebnisse

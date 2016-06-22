@@ -33,12 +33,12 @@ partners:
     <p>Du willst uns dabei helfen, dass der Event ein Erfolg wird? Wir suchen Helfer, Coaches und Sponsoren. <a href="mailto:info@cyclehackberlin.de">Melde dich bei uns!</a></p>
 
   gold:
-    - name: Fab Lab Berlin
-      logo: fablab.png
-      url: https://fablab.berlin/
     - name: DB Open Data
       logo: dbopendata.png
       url: http://data.deutschebahn.com/apis/
+    - name: Fab Lab Berlin
+      logo: fablab.png
+      url: https://fablab.berlin/
     - name: Open Knowledge Foundation Deutschland
       logo: okf.svg
       url: https://okfn.de/
@@ -47,6 +47,9 @@ partners:
     - name: Boreal Bikes
       logo: borealbikes.png
       url: https://borealbikes.com/
+    - name: Tech Open Air
+      logo: toa.png
+      url: https://toa.berlin/
     - name: Trafo Pop
       logo: trafopop.svg
       url: http://www.trafopop.com/

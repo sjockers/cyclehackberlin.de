@@ -5,7 +5,7 @@ permalink: /mitmachen/
 join:
   date: 24. bis 26. Juni 2016
   venue: Im Fab Lab Berlin
-  registration: Jetzt Anmelden!
+  registration: Jetzt anmelden!
   schedule: Programm
   teaser: Wir erarbeiten gemeinsam Ideen, um mehr Menschen aufs Fahrrad zu bringen – in Berlin und anderswo. Macht mit!
 

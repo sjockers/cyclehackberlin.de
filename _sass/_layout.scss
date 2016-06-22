@@ -19,56 +19,6 @@
   }
 }
 
-.section {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  min-height: 100vh;
-  width: 100%;
-  padding: $spacing-unit 0;
-  overflow: hidden;
-  background: white;
-  color: black;
-}
-
-.section__main {
-  padding: $spacing-unit;
-}
-
-.section__main--column {
-  @extend .section__main;
-
-  @include media-query($screen-md) {
-    width: 60%;
-    float: left;
-  }
-}
-
-.section__sidebar {
-  display: block;
-  padding-top: 100px;
-
-  @include media-query($screen-md) {
-    width: 40%;
-    float: left;
-    padding: 100px $spacing-unit;
-  }
-}
-
-
-.section--intro {
-  background: black;
-  background-image: url(/assets/images/background-trafficlight.jpg);
-  background-position: left;
-  background-attachment: fixed;
-  color: white;
-}
-
-.section--about {
-  background-image: url(/assets/images/background-alexanderplatz.jpg);
-  color: white;
-}
-
 .main-logo {
   display: block;
   width: 170px;

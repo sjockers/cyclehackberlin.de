@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contact
 ---
 
 ## Kontakt und Impressum

@@ -46,3 +46,15 @@
   background-attachment: fixed;
   color: white;
 }
+
+.section--ideas {
+  background-color: $hilight-color;
+  color: white;
+
+  @include media-query($screen-lg) {
+    background-image: url(/assets/images/background-fablab.jpg);
+    background-position: right bottom;
+    background-size: 39% auto;
+  }
+
+}

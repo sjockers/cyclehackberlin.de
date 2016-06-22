@@ -1,5 +1,6 @@
 ---
 layout: join
+permalink: /mitmachen/
 
 join:
   date: 24. bis 26. Juni 2016

@@ -1,0 +1,22 @@
+{% for day in page.schedule %}
+<div class="section__sidebar">
+  <h3 class="schedule__date">
+    {{ day.date }}
+  </h3>
+</div>
+
+<div class="section__main--column">
+  <dl class="schedule__list">
+  {% for item in day.items %}
+    <dt>
+      {{ item.time }}
+    </dt>
+    <dd>
+      <h4 class="schedule__title">{{ item.name }}</h4>
+      {{ item.content }}
+    </dd>
+  {% endfor %}
+  </dl>
+</div>
+{% endfor %}
+

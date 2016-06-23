@@ -1,5 +1,4 @@
 .section {
-  min-height: 100vh;
   width: 100%;
   padding: $spacing-unit 0;
   overflow: hidden;
@@ -8,6 +7,10 @@
   background-repeat: no-repeat;
   background-position: center;
   color: black;
+
+  @media screen and (max-height: $screen-lg) {
+    min-height: 100vh;
+  }
 }
 
 .section__main {

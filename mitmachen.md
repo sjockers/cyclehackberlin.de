@@ -1,6 +1,10 @@
 ---
 layout: join
 permalink: /mitmachen/
+redirect_from:
+  - "/veranstaltungsort/"
+  - "/presse-und-media/"
+  - "/veranstaltung-ideen/"
 
 join:
   date: 24. bis 26. Juni 2016

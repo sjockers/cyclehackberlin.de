@@ -71,7 +71,7 @@
   line-height: 1.2;
   font-weight: 900;
   text-transform: uppercase;
-  color: $brand-color;
+  color: lighten($brand-color, 15);
 
   @include media-query($screen-md) {
     font-size: 48px;

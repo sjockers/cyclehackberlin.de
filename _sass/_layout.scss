@@ -88,20 +88,15 @@
 }
 
 .subscription-form {
-  padding: 25px 0 0 0;
-  margin: 20px 0 0 0;
-  display: block;
-  border-top: 1px solid white;
-
   input {
     border: 1px solid #333;
     background: white;
     font-size: $base-font-size;
     font-family: $base-font-family;
-    padding: 5px 15px 0 15px;
-    margin: 0 5px 0 0;
-    height: 60px;
-    width: 290px;
+    padding: 5px 20px 0 20px;
+    margin: 0 15px 15px 0;
+    height: 70px;
+    width: 320px;
     vertical-align: middle;
   }
 
@@ -112,6 +107,7 @@
     color: white;
     border-radius: 5px;
     width: auto;
+    border: none;
 
     &:hover,
     &:active,
@@ -123,8 +119,8 @@
 }
 
 .subscription-form__smallprint {
-  margin-top: 25px;
   font-size: $small-font-size;
+  margin: $spacing-unit/2 0;
 }
 
 .footer {

@@ -1,0 +1,12 @@
+.social {
+  margin-top: 70px;
+}
+
+.social__twitter {
+  display: block;
+  padding: $spacing-unit/2;
+}
+
+.social__facebook {
+  @extend .social__twitter;
+}

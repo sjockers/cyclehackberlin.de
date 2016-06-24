@@ -91,5 +91,10 @@ ideas:
     <p>Ihr seid dazu aufgerufen, eure eigenen Ideen, Materialien und Werkzeuge beizusteuern. Bei der Umsetzung eurer Ideen erhaltet ihr Hilfe von sachkundigen Coaches.</p>
     <p>Wir wollen eure Projekte – egal ob Kampagnen, Software, Produkte oder Ideen zur Fahrradinfastruktur. Wie würdest du Radfahren in Berlin besser machen?</p>
 
+newsletter:
+  title: Bleib auf dem Laufenden
+  email: Email-Addresse
+  submit: Newsletter bestellen
+  smallprint: "Deine Email-Adressen wird von uns ausschliesslich zur Information über den Cyclehack Berlin genutzt und nicht an Dritte weitergegeben. Für diesen Verteiler verwenden wir Mailchimp, dessen <a href='http://mailchimp.com/legal/privacy/' target='_blank'>Privacy Policy</a> du hier einsehen kannst."
 
 ---

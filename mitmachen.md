@@ -3,7 +3,6 @@ layout: join
 permalink: /mitmachen/
 redirect_from:
   - "/veranstaltungsort/"
-  - "/presse-und-media/"
   - "/veranstaltung-ideen/"
 
 join:
@@ -91,5 +90,6 @@ ideas:
     <p>Der CycleHack findet im <a href="https://fablab.berlin/">Fab Lab Berlin</a> statt, einer offenen Entwicklungswerkstatt. Hier stehen euch Werkzeug und Geräte wie 3D-Drucker und Laser-Cutter zur Verfügung. Außerdem stellen wir Daten zur Fahrradinfrastruktur und Fahrradnutzung in Berlin bereit.</p>
     <p>Ihr seid dazu aufgerufen, eure eigenen Ideen, Materialien und Werkzeuge beizusteuern. Bei der Umsetzung eurer Ideen erhaltet ihr Hilfe von sachkundigen Coaches.</p>
     <p>Wir wollen eure Projekte – egal ob Kampagnen, Software, Produkte oder Ideen zur Fahrradinfastruktur. Wie würdest du Radfahren in Berlin besser machen?</p>
+
 
 ---

@@ -3,6 +3,9 @@ layout: contact
 redirect_from:
   - "/contact-us/"
   - "/team/"
+  - "/presse-und-media/"
+  - "/presse/"
+
 ---
 
 # Presse

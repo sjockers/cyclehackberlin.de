@@ -65,6 +65,14 @@
   }
 }
 
+.section--post {
+  // background-image to be added via inline styles
+  background-color: black;
+  background-position: left;
+  background-attachment: fixed;
+  color: white;
+}
+
 .section--newsletter {
   background-color: #efefef;
 }

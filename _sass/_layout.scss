@@ -23,8 +23,7 @@
   display: block;
   width: 170px;
   height: 170px;
-  margin: $spacing-unit/2 0;
-  padding: 0;
+  margin-bottom: $spacing-unit/2;
   background: url(/assets/images/logo-cyclehack-berlin.svg) no-repeat center center;
   text-indent: 100%;
   text-decoration: none;
@@ -56,7 +55,7 @@
 }
 
 .intro {
-  padding: 50px 0;
+  padding: 30px 0 10px 0;
 
   @include media-query($screen-md) {
     max-width: 600px;

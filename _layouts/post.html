@@ -1,15 +1,54 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<section id="intro" class="section section--post" style="background-image: url({{ page.picture }})">
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  <div class="container">
 
-</div>
+    <div class="section__main--column">
+      <header class="header">
+        <a class="main-logo" href="/">
+          <h1>Cyclehack Berlin</h1>
+        </a>
+      </header>
+
+      <div class="intro">
+        <h2 class="intro__tagline">{{ page.title }}</h2>
+      </div>
+      <div class="teaser">
+        {{ page.lead }}
+      </div>
+    </div>
+
+  </div>
+
+</section>
+
+<section class="section">
+  <div class="container">
+
+    <div class="section__main--column">
+
+      {{ content }}
+
+    </div>
+
+    <aside class="section__sidebar">
+        <time class="post-meta">{{ page.date | date: "%-d.%-m.%Y" }}
+
+        {% if page.author %}
+          <p>
+            {{ page.author }}
+          </p>
+        {% endif %}
+
+        {% if page.meta %}
+          <p>
+            {{ page.meta }}
+          </p>
+        {% endif %}
+    </aside>
+
+  </div>
+</section>

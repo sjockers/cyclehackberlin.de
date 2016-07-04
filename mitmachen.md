@@ -70,7 +70,7 @@ schedule:
   - date: Sunday, 26. Juni 2016
     items:
       - time: "09:30"
-        name: Résumé und Kick-Off
+        name: Resümee und Kick-Off
       - time: "10:30"
         name: HackTime
         content: Teamarbeit und spontane Workshops

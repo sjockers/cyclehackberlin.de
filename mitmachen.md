@@ -8,9 +8,10 @@ redirect_from:
 join:
   date: 24. bis 26. Juni 2016
   venue: Im Fab Lab Berlin
-  registration: Jetzt anmelden!
+  more: Zum Rückblick
   schedule: Programm
-  teaser: Wir erarbeiten gemeinsam Ideen, um mehr Menschen aufs Fahrrad zu bringen – in Berlin und anderswo. Macht mit!
+  teaser: >
+    Vom 24. bis 26. Juni arbeiteten wir gemeinsam daran, Radfahren in der Berlin besser und sicherer zu machen.
 
 schedule:
   - date: Freitag, 24. Juni 2016

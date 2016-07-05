@@ -3,16 +3,17 @@ layout: home
 
 intro:
   tagline: 48 Stunden voller neuer Ideen für die Fahrradstadt Berlin
-  date: 24. bis 26. Juni 2016
-  more: Mehr erfahren
-  join: Mitmachen
+  more: Was ist ein CycleHack?
+  join: Zum Rückblick
+  content: >
+    Vom 24. bis 26. Juni arbeiteten wir gemeinsam daran, Radfahren in der Berlin besser und sicherer zu machen.
 
 teaser:
   title: CycleHack Berlin
   call_to_action: Programm
   content: >
-    <p>Vom 24. bis 26. Juni 2016 bringen wir für 48 Stunden Fahrradschrauber, Designer, Aktivisten, Ingenieure, Programmierer, Stadtplaner und viele andere zusammen. Gemeinsam entwickeln wir Ideen, Prototypen und Kampagnen um die alltäglichen Hindernisse abzubauen, die Menschen vom Radfahren abhalten.</p>
-    <p>CycleHack ist ein globaler Event, der gleichzeitig in über 30 Städten organisiert wird. In diesem Jahr findet der Event zum dritten Mal statt – und zum ersten Mal in Berlin.</p>
+    <p>Vom 24. bis 26. Juni 2016 brachten wir für 48 Stunden Fahrradschrauber, Designer, Aktivisten, Ingenieure, Programmierer, Stadtplaner und viele andere zusammen. Gemeinsam entwickelten wir Ideen und Prototypen um die alltäglichen Hindernisse abzubauen, die Menschen vom Radfahren abhalten.</p>
+    <p>CycleHack ist ein globaler Event, der gleichzeitig in über 30 Städten organisiert wird. In diesem Jahr fand der Event zum dritten Mal statt – und zum ersten Mal in Berlin.</p>
 
 about:
   title: Was ist ein CycleHack?

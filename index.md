@@ -6,7 +6,7 @@ intro:
   more: Was ist ein CycleHack?
   join: Zum Rückblick
   content: >
-    Vom 24. bis 26. Juni arbeiteten wir gemeinsam daran, Radfahren in der Berlin besser und sicherer zu machen.
+    Vom 24. bis 26. Juni arbeiteten wir gemeinsam daran, Radfahren in Berlin besser und sicherer zu machen.
 
 teaser:
   title: CycleHack Berlin

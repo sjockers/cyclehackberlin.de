@@ -1,9 +1,8 @@
 ---
 layout: contact
 redirect_from:
-  - "/contact-us/"
-  - "/team/"
-
+- "/contact-us/"
+- "/team/"
 ---
 
 # Impressum

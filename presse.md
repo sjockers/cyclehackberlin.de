@@ -1,9 +1,8 @@
 ---
 layout: contact
 redirect_from:
-  - "/presse-und-media/"
-  - "/presse/"
-
+- "/presse-und-media/"
+- "/presse/"
 ---
 
 ## Presse

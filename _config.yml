@@ -1,7 +1,14 @@
-# Site settings
+---
 title: Cyclehack Berlin 2016
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cyclehackberlin.de" # the base hostname & protocol for your site
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: ''
+url: http://cyclehackberlin.de
 gems:
-  - jekyll-redirect-from
-
+- jekyll-redirect-from

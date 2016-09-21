@@ -68,9 +68,10 @@
   padding: 0 0 $spacing-unit/2 0;
   font-size: 32px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
   font-weight: 900;
   text-transform: uppercase;
+  text-shadow: 1px 1px 30px rgba(black, 0.7);
   color: lighten($brand-color, 15);
 
   @include media-query($screen-md) {

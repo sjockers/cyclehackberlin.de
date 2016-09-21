@@ -106,7 +106,7 @@ a {
     &:hover,
     &:active,
     &:focus {
-        color: lighten($brand-color, 20%);
+        color: darken($brand-color, 15%);
     }
 }
 

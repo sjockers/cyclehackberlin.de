@@ -1,0 +1,21 @@
+.more-links {
+  margin: 0 0 $spacing-unit 0;
+  padding: 0;
+
+  li {
+    display: block;
+    list-style: none;
+  }
+
+  a {
+    display: block;
+    text-decoration: none;
+    line-height: 1.8;
+
+    &:before {
+      content: '⇢';
+      display: inline-block;
+      padding-right: .15em;
+    }
+  }
+}

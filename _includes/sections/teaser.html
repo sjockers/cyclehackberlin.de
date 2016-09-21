@@ -14,4 +14,11 @@
   <div class="video">
     <iframe src="https://player.vimeo.com/video/165950884?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
+
+  <ul class="more-links">
+    {% for link in page.teaser.more_links %}
+    <li>
+      <a target="_blank" href="{{ link.url }}"> {{ link.text }}</a>
+    </li>
+    {% endfor %}
 </aside>

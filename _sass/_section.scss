@@ -24,6 +24,7 @@
 
 .section__sidebar {
   display: block;
+  padding: 0 $spacing-unit;
 
   @include media-query($screen-md) {
     width: 40%;

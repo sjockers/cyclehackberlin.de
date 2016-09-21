@@ -65,14 +65,16 @@
 .intro__tagline {
   display: block;
   margin: 0;
-  padding: 0;
-  font-size: 24px;
+  padding: 0 0 $spacing-unit/2 0;
+  font-size: 32px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   font-weight: 900;
   text-transform: uppercase;
   color: lighten($brand-color, 15);
 
   @include media-query($screen-md) {
+    padding: 0;
     font-size: 48px;
   }
 }
@@ -83,7 +85,9 @@
 }
 
 .teaser {
-  font-size: 24px;
+  @include media-query($screen-sm) {
+    font-size: 24px;
+  }
 }
 
 .subscription-form {

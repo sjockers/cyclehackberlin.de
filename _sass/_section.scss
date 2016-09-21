@@ -16,7 +16,7 @@
 .section__main--column {
   @extend .section__main;
 
-  @include media-query($screen-md) {
+  @include media-query($screen-lg) {
     width: 60%;
     float: left;
   }
@@ -26,7 +26,7 @@
   display: block;
   padding: 0 $spacing-unit;
 
-  @include media-query($screen-md) {
+  @include media-query($screen-lg) {
     width: 40%;
     float: left;
     padding: $spacing-unit;

@@ -21,14 +21,19 @@
 
 .main-logo {
   display: block;
-  width: 170px;
-  height: 170px;
-  margin-bottom: $spacing-unit/2;
+  width: 100px;
+  height: 100px;
   background: url(/assets/images/logo-cyclehack-berlin.svg) no-repeat center center;
   text-indent: 100%;
   text-decoration: none;
   white-space: nowrap;
   overflow: hidden;
+
+  @include media-query($screen-md) {
+    width: 170px;
+    height: 170px;
+    margin-bottom: $spacing-unit/2;
+  }
 }
 
 .partners {
@@ -65,28 +70,34 @@
 .intro__tagline {
   display: block;
   margin: 0;
-  padding: 0 0 $spacing-unit/2 0;
-  font-size: 32px;
-  line-height: 1.2;
+  padding: 0;
+  font-size: 24px;
   letter-spacing: 0.01em;
+  line-height: 1.4;
   font-weight: 900;
   text-transform: uppercase;
   text-shadow: 1px 1px 30px rgba(black, 0.7);
   color: lighten($brand-color, 15);
 
+  @include media-query($screen-sm) {
+    font-size: 30px;
+  }
+
   @include media-query($screen-md) {
     padding: 0;
     font-size: 48px;
+    line-height: 1.2;
   }
 }
 
 .intro__date {
   color: white;
+  padding: 0;
   @extend .intro__tagline;
 }
 
 .teaser {
-  @include media-query($screen-sm) {
+  @include media-query($screen-md) {
     font-size: 24px;
   }
 }

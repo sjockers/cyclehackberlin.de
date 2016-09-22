@@ -10,7 +10,11 @@
 }
 
 .section__main {
-  padding: $spacing-unit;
+  padding: 0 $spacing-unit;
+
+  @include media-query($screen-md) {
+    padding: $spacing-unit;
+  }
 }
 
 .section__main--column {
@@ -36,7 +40,6 @@
 .section--intro {
   background-color: black;
   background-image: url(/assets/images/background-wheel.jpg);
-  background-position: left;
   background-attachment: fixed;
   color: white;
 }
@@ -58,6 +61,10 @@
 .section--ideas {
   background-color: $hilight-color;
   color: white;
+
+  a {
+    color: white;
+  }
 
   @include media-query($screen-lg) {
     background-image: url(/assets/images/background-fablab.jpg);

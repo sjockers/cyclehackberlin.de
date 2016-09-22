@@ -1,10 +1,8 @@
 .call-to-action {
   display: inline-block;
-  padding: $spacing-unit/2 $spacing-unit;
-  margin: $spacing-unit/2 0 0 0;
+  padding: $spacing-unit/4 $spacing-unit/2;
+  margin: $spacing-unit/3 $spacing-unit/2 0 0;
   border-radius: 5px;
-  font-size: 24px;
-  margin-right: $spacing-unit/1.5;
   color: $brand-color;
   border: 2px solid $brand-color;
   text-decoration: none;
@@ -12,6 +10,12 @@
   &:hover, &:active, &:focus {
     color: $brand-color;
     border-color: $brand-color;
+  }
+
+  @include media-query($screen-md) {
+    padding: $spacing-unit/2 $spacing-unit;
+    margin: $spacing-unit/2 $spacing-unit/1.5 0 0;
+    font-size: 24px;
   }
 }
 

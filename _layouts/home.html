@@ -2,30 +2,23 @@
 layout: default
 ---
 
-<div class="section__main--column">
+<section id={{include.id}} class="section section--{{include.id}}">
+  <div class="container">
+    <div class="section__main--column">
 
-  <h2>CycleHack Berlin 2017</h2>
+      <h2>CycleHack Berlin 2017</h2>
 
-  <p>Vom 15. bis 17. September 2017 bringen wir Fahrradschrauber*innen, Designer*innen, Programmierer*innen, Aktivist*innen und viele andere zusammen, um gemeinsam an Ideen für die Fahrradstadt Berlin zu arbeiten.</p>
+      <p>Vom 15. bis 17. September 2017 bringen wir Fahrradschrauber*innen, Designer*innen, Programmierer*innen, Aktivist*innen und viele andere zusammen, um gemeinsam an Ideen für die Fahrradstadt Berlin zu arbeiten.</p>
 
-  <h4>Wir suchen helfende Hände!</h4>
+      <h4>Wir suchen helfende Hände!</h4>
 
-  <p>CycleHack Berlin wird komplett von Freiwilligen organisiert und bis September gibt es noch viel zu tun (Rahmenprogramm planen, Webseite aktualisieren, Sponsoren gewinnen…). Falls Du Dir vorstellen kannst mitzuhelfen: Das nächste öffentliche Planungstreffen findet am Dienstag, 04. Juli um 19:00 im <a href="https://fablab.berlin/">FabLab Berlin</a> statt. Kommt vorbei!</p>
+      <p>CycleHack Berlin wird komplett von Freiwilligen organisiert und bis September gibt es noch viel zu tun (Rahmenprogramm planen, Webseite aktualisieren, Sponsoren gewinnen…). Falls Du Dir vorstellen kannst mitzuhelfen: Das nächste öffentliche Planungstreffen findet am Dienstag, 04. Juli um 19:00 im <a href="https://fablab.berlin/">FabLab Berlin</a> statt. Kommt vorbei!</p>
 
-  <h4>Bleib auf dem Laufenden</h4>
+    </div>
+  </div>
+</section>
 
-  <!-- Begin MailChimp Signup Form -->
-    <form action="//cyclehackberlin.us12.list-manage.com/subscribe/post?u=a154d00c175951d36a67055fb&amp;id=f7cbc72d0b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="subscription-form" target="_blank" novalidate>
-      <input type="email" value="" name="EMAIL" placeholder="{{ page.newsletter.email }}" id="mce-EMAIL">
-      <div style="position: absolute; left: -5000px;" aria-hidden="true">
-        <input type="text" name="b_a154d00c175951d36a67055fb_f7cbc72d0b" tabindex="-1" value="">
-      </div>
-      <button type="submit" name="subscribe" id="mc-embedded-subscribe">{{ page.newsletter.submit }}</button>
-      <p class="subscription-form__smallprint">{{ page.newsletter.smallprint }}</p>
-    </form>
-  <!--End mc_embed_signup-->
-</div>
-
+{% include section.html id="newsletter" content="sections/newsletter.html" %}
 
 {% include section.html id="intro" content="sections/intro.html" %}
 
@@ -35,5 +28,4 @@ layout: default
 
 {% include section.html id="partners" content="sections/partners.html" %}
 
-{% include section.html id="newsletter" content="sections/newsletter.html" %}
 

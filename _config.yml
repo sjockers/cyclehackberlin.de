@@ -12,3 +12,11 @@ baseurl:
 url: http://cyclehackberlin.de
 gems:
 - jekyll-redirect-from
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      lead: ""
+      picture:

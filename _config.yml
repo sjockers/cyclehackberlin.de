@@ -1,5 +1,5 @@
 ---
-title: Cyclehack Berlin 2017
+title: Cyclehack Berlin
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-baseurl: ''
+baseurl: 
 url: http://cyclehackberlin.de
 gems:
 - jekyll-redirect-from
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      lead: ""
+      picture:

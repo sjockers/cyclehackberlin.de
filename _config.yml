@@ -8,15 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    lead: ''
+    picture: 
 baseurl: 
 url: http://cyclehackberlin.de
 gems:
 - jekyll-redirect-from
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      lead: ""
-      picture:

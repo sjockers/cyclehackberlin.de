@@ -1,11 +1,11 @@
 ---
-layout: home
+title: Cyclehack Berlin 2017
 intro:
-  tagline: 48 Stunden voller neuer Ideen für die Fahrradstadt Berlin
+  tagline: 3 Tage voller neuer Ideen für die Fahrradstadt Berlin
   more: Was ist ein CycleHack?
   join: Zum Rückblick
-  content: 'Vom 24. bis 26. Juni arbeiteten wir gemeinsam daran, Radfahren in Berlin
-    besser und sicherer zu machen.
+  content: 'Vom 15. bis 17. September 2017 arbeiten wir gemeinsam daran, Radfahren
+    in Berlin besser und sicherer zu machen.
 
 '
 teaser:
@@ -82,6 +82,7 @@ newsletter:
     den Cyclehack Berlin genutzt und nicht an Dritte weitergegeben. Für diesen Verteiler
     verwenden wir Mailchimp, dessen <a href='http://mailchimp.com/legal/privacy/'
     target='_blank'>Privacy Policy</a> du hier einsehen kannst.
+layout: home
 ---
 
-Vom 24. bis 26. Juni 2016 bringen wir für 48 Stunden Fahrradschrauber, Designer, Aktivisten, Ingenieure, Programmierer, Stadtplaner und viele andere zusammen. Gemeinsam entwickeln wir Ideen, Prototypen und Kampagnen um die alltäglichen Hindernisse abzubauen, die Menschen vom Radfahren abhalten.
+Vom 15. bis 17. September 2017 bringen wir Fahrradschrauber*innen, Designer*innen, Programmierer*innen, Aktivist*innen und viele andere zusammen, um gemeinsam an Ideen für die Fahrradstadt Berlin zu arbeiten.

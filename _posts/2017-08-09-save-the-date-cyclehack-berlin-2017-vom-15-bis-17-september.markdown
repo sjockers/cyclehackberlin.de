@@ -7,8 +7,11 @@ lead: Die Cyclehack Berlin 2017 findet vom 15. bis 17. September statt. Fahrradb
 ---
 
 Dieselgate. 😷 
+
 Zugeparkte Fahrradwege. 💥
+
 Neue Baustellen, die Dir das Radfahren in der Stadt schwer machen…🚧
+
 Es gibt so viele Dinge, über die man sich als Radfahrer aufregen kann. Wie wäre es mal mit etwas Positivem?
 
 Auf der Cyclehack Berlin 2017 wollen wir ein Wochenende lang gemeinsam Ideen sammeln und Lösungen bzw. Ansätze entwickeln, um das Radfahren angenehmer zu gestalten. Dabei kann es sich um ganz konkrete Dinge handeln, um Dein Rad zu pimpen oder das “große Ganze” in Bewegung zu setzen. Die Cyclehack bietet Dir dafür einen Ort um Gleichgesinnte zu finden. Vielleicht hast Du bereits eine tolle Idee, die Du gerne in ein Projekt umzusetzen würdest, aber Dir fehlt das handwerkliche Geschick? Der kreative Input? Die Gruppendynamik um es durchzuführen?

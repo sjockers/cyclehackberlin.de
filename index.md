@@ -39,12 +39,15 @@ about:
     Kampagnen, die für fahrradfreundlichere Städte sorgen.</p>\n"
 partners:
   title: Partner und Sponsoren
-  content: 'Wir suchen noch Partner und Sponsoren, die unsere Veranstaltung im September unterstützen – finanziell oder durch Sachspenden für Material, Werkzeug und Geräte, sowie Essen und Getränke für die Teilnehmer. <a href="/downloads/slidedeck_sponsoring_2017.pdf">Mehr Infos [PDF]</a>'
+  content: Wir suchen noch Partner und Sponsoren, die unsere Veranstaltung im September
+    unterstützen – finanziell oder durch Sachspenden für Material, Werkzeug und Geräte,
+    sowie Essen und Getränke für die Teilnehmer. <a href="/downloads/slidedeck_sponsoring_2017.pdf">Mehr
+    Infos [PDF]</a>
   help_out: Helft mit!
-  volunteers: '<p>CycleHack Berlin wird komplett von Freiwilligen organisiert.</p>
+  volunteers: <p>CycleHack Berlin wird komplett von Freiwilligen organisiert.</p>
     <p>Du willst uns dabei helfen, dass der Event ein Erfolg wird? Wir suchen Helfer,
     Coaches und Sponsoren. <a href="mailto:info@cyclehackberlin.de">Melde dich bei
-    uns!</a></p>'
+    uns!</a></p>
   gold:
   - name: DB Open Data
     logo: dbopendata.png

@@ -2,26 +2,6 @@
 
   <h1>{{ page.partners.title }}</h1>
 
-  <ul class="partners">
-    {% for partner in page.partners.gold %}
-      <li>
-        <a href="{{ partner.url }}">
-          <img class="partners__logo" src="/assets/images/partners/{{ partner.logo }}" alt="{{ partner.name }}" />
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <ul class="partners">
-    {% for partner in page.partners.silver %}
-      <li>
-        <a href="{{ partner.url }}">
-          <img class="partners__logo--small" src="/assets/images/partners/{{ partner.logo }}" alt="{{ partner.name }}" />
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-
   <p>{{ page.partners.content }}</p>
 
 </div>

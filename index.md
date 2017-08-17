@@ -12,19 +12,18 @@ teaser:
   title: CycleHack Berlin
   call_to_action: Programm
   more_links:
-  - text: "CycleHack Berlin 2016: Rückblick"
+  - text: 'CycleHack Berlin 2016: Rückblick'
     url: "/2016/06/30/rueckblick.html"
-  - text: "CycleHack international"
-    url: "http://www.cyclehack.com/"
-  - text: "Hacks aus den vergangenen Jahren"
-    url: "http://www.cyclehack.com/catalogue/"
-  content: "<p>Vom 15. bis 17. September 2017 bringen wir für 48 Stunden
-    Fahrradschrauber*innen, Designer*innen, Aktivist*innen, Programmierer*innen und viele
-    andere zusammen. Gemeinsam entwickelten wir Ideen und Prototypen, um die alltäglichen
-    Hindernisse abzubauen, die Menschen vom Radfahren abhalten.</p> <p>CycleHack ist
-    ein globales Event, das gleichzeitig in über 30 Städten organisiert wird. Nach dem
-    großen Erfolg von 2016 findet der CycleHack in diesem Jahr zum zweiten Mal in Berlin
-    statt.</p>\n"
+  - text: CycleHack international
+    url: http://www.cyclehack.com/
+  - text: Hacks aus den vergangenen Jahren
+    url: http://www.cyclehack.com/catalogue/
+  content: "<p>Vom 15. bis 17. September 2017 bringen wir für 48 Stunden Fahrradschrauber*innen,
+    Designer*innen, Aktivist*innen, Programmierer*innen und viele andere zusammen.
+    Gemeinsam entwickelten wir Ideen und Prototypen, um die alltäglichen Hindernisse
+    abzubauen, die Menschen vom Radfahren abhalten.</p> <p>CycleHack ist ein globales
+    Event, das gleichzeitig in über 30 Städten organisiert wird. Nach dem großen Erfolg
+    von 2016 findet der CycleHack in diesem Jahr zum zweiten Mal in Berlin statt.</p>\n"
 about:
   title: Was ist ein CycleHack?
   call_to_action: Schick uns Deine Idee
@@ -61,7 +60,7 @@ partners:
   - name: Open Knowledge Foundation Deutschland
     logo: okf.svg
     url: https://okfn.de/
-  silver:
+  silver: 
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

@@ -1,7 +1,7 @@
 ---
 title: index.md
 intro:
-  tagline: 3 Tage voller neuer Ideen für die Fahrradstadt Berlin
+  tagline: 3 Tage voller Ideen für die Fahrradstadt Berlin
   more: Was ist ein CycleHack?
   join: Newsletter
   content: 'Vom 15. bis 17. September 2017 arbeiten wir gemeinsam daran, Radfahren

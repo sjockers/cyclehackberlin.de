@@ -3,7 +3,7 @@ title: index.md
 intro:
   tagline: 3 Tage voller neuer Ideen für die Fahrradstadt Berlin
   more: Was ist ein CycleHack?
-  join: Zum Rückblick
+  join: Newsletter
   content: 'Vom 15. bis 17. September 2017 arbeiten wir gemeinsam daran, Radfahren
     in Berlin besser und sicherer zu machen.
 
@@ -12,16 +12,19 @@ teaser:
   title: CycleHack Berlin
   call_to_action: Programm
   more_links:
-  - text: CycleHack international
-    url: http://www.cyclehack.com/
-  - text: Hacks aus den vergangenen Jahren
-    url: http://www.cyclehack.com/catalogue/
-  content: "<p>Vom 24. bis 26. Juni 2016 brachten wir für 48 Stunden Fahrradschrauber,
-    Designer, Aktivisten, Ingenieure, Programmierer, Stadtplaner und viele andere
-    zusammen. Gemeinsam entwickelten wir Ideen und Prototypen um die alltäglichen
+  - text: "CycleHack Berlin 2016: Rückblick"
+    url: "/2016/06/30/rueckblick.html"
+  - text: "CycleHack international"
+    url: "http://www.cyclehack.com/"
+  - text: "Hacks aus den vergangenen Jahren"
+    url: "http://www.cyclehack.com/catalogue/"
+  content: "<p>Vom 15. bis 17. September 2017 bringen wir für 48 Stunden
+    Fahrradschrauber*innen, Designer*innen, Aktivist*innen, Programmierer*innen und viele
+    andere zusammen. Gemeinsam entwickelten wir Ideen und Prototypen, um die alltäglichen
     Hindernisse abzubauen, die Menschen vom Radfahren abhalten.</p> <p>CycleHack ist
-    ein globaler Event, der gleichzeitig in über 30 Städten organisiert wird. In diesem
-    Jahr fand der Event zum dritten Mal statt – und zum ersten Mal in Berlin.</p>\n"
+    ein globales Event, das gleichzeitig in über 30 Städten organisiert wird. Nach dem
+    großen Erfolg von 2016 findet der CycleHack in diesem Jahr zum zweiten Mal in Berlin
+    statt.</p>\n"
 about:
   title: Was ist ein CycleHack?
   call_to_action: Schick uns Deine Idee
@@ -59,21 +62,6 @@ partners:
     logo: okf.svg
     url: https://okfn.de/
   silver:
-  - name: Boreal Bikes
-    logo: borealbikes.png
-    url: https://borealbikes.com/
-  - name: Tech Open Air
-    logo: toa.png
-    url: https://toa.berlin/
-  - name: Trafo Pop
-    logo: trafopop.svg
-    url: http://www.trafopop.com/
-  - name: TSB Berlin
-    logo: tsb.png
-    url: https://www.technologiestiftung-berlin.de/
-  - name: Be Berlin
-    logo: berlin.png
-    url: http://sei.berlin.de
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

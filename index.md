@@ -51,16 +51,19 @@ partners:
     Coaches und Sponsoren. <a href="mailto:info@cyclehackberlin.de">Melde dich bei
     uns!</a></p>
   gold:
-  - name: DB Open Data
-    logo: dbopendata.png
-    url: http://data.deutschebahn.com/apis/
   - name: Fab Lab Berlin
     logo: fablab.png
     url: https://fablab.berlin/
   - name: Open Knowledge Foundation Deutschland
     logo: okf.svg
     url: https://okfn.de/
-  silver: 
+  - name: DB Open Data
+    logo: dbopendata.png
+    url: http://data.deutschebahn.com/apis/
+  silver:
+  - name: Boreal Bikes
+    logo: borealbikes.png
+    url: https://borealbikes.com/
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

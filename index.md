@@ -64,6 +64,9 @@ partners:
   - name: Boreal Bikes
     logo: borealbikes.png
     url: https://borealbikes.com/
+  - name: SNOM
+    logo: snom.svg
+    url: https://snom.com/
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

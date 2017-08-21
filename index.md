@@ -24,7 +24,7 @@ teaser:
     abzubauen, die Menschen vom Radfahren abhalten.</p> <p>CycleHack ist ein globales
     Event, das gleichzeitig in über 30 Städten organisiert wird. Nach dem großen Erfolg
     von 2016 findet der CycleHack in diesem Jahr zum zweiten Mal in Berlin statt.</p>\n"
-  blog_title: "Aus dem Blog:"
+  blog_title: 'Aus dem Blog:'
 about:
   title: Was ist ein CycleHack?
   call_to_action: Schick uns Deine Idee

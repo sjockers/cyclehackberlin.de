@@ -1,0 +1,32 @@
+.article-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    display: block;
+    margin: 0;
+    padding: 0 0 0.5em 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.article-list__date {
+  color: $text-color;
+  display: block;
+
+  @include media-query($screen-sm) {
+    position: absolute;
+  }
+}
+
+.article-list__title {
+  display: block;
+
+  @include media-query($screen-sm) {
+    padding-left: 25%;
+  }
+}

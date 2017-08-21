@@ -4,9 +4,18 @@
 
   {{ page.teaser.content }}
 
-<!--   <a href="/mitmachen/#schedule" class="call-to-action">
-    {{ page.teaser.call_to_action }}
-  </a> -->
+  <h3>{{ page.teaser.blog_title }}</h3>
+
+  <ul class="article-list">
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a class="article-list__item" href="{{ post.url }}">
+        <time class="article-list__date">{{ post.date | date: "%Y-%m-%d" }}</time>
+        <span class="article-list__title">{{ post.title }}</span>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
 
 </div>
 

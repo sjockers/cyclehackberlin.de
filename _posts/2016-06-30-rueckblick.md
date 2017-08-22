@@ -1,7 +1,6 @@
 ---
 title: Kreative Ideen für besseres Radfahren
 date: 2016-06-30 00:00:00 Z
-layout: post
 picture: "/assets/images/background-wheel.jpg"
 lead: 'Rückblick: In Berlin arbeiteten Fahrradenthusiast*innen vom 24.&nbsp;bis 26.&nbsp;Juni
   gemeinsam an Ideen, die das Fahrradfahren in der Stadt besser und sicherer machen.

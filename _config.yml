@@ -13,9 +13,10 @@ defaults:
     path: ''
     type: posts
   values:
+    layout: post
     lead: ''
-    picture: 
-baseurl: 
+    picture:
+baseurl:
 url: http://cyclehackberlin.de
 gems:
 - jekyll-redirect-from

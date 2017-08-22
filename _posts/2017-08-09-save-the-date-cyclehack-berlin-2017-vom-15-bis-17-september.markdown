@@ -1,7 +1,6 @@
 ---
 title: Save the date! Cyclehack Berlin 2017 vom 15. bis 17. September
 date: 2017-08-09 08:15:00 Z
-layout: post
 lead: Die Cyclehack Berlin 2017 findet vom 15. bis 17. September statt. Fahrradbegeisterte
   treffen sich für ein Wochenende und beschäftigen sich 3 Tage lang mit allem rund
   ums Fahrrad. Mach mit, sei dabei!

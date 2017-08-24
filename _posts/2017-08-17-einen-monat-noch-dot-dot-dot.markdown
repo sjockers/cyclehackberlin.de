@@ -1,6 +1,7 @@
 ---
 title: Noch 3 Wochen!
 date: 2017-08-17 15:24:00 Z
+picture: "/uploads/background_hackbike.jpg"
 ---
 
 Dann ist es soweit! Die Planung startet nun in die heiße Phase und das Orga-Team wappnet sich. Wir freuen uns bereits die ersten Sponsoren bekannt machen zu dürfen und tüfteln an Online- und Offline-Präsenz.

@@ -1,6 +1,6 @@
 ---
 title: Noch 3 Wochen!
-date: 2017-08-17 09:00:00 Z
+date: 2017-08-24 09:00:00 Z
 picture: "/assets/images/background_hackbike.jpg"
 ---
 

@@ -7,7 +7,7 @@ intro:
 form:
   email: Email address
   submit: Receive updates!
-  smallprint: Your email will only be used to send you updates about Cyclehack Berlin.
+  smallprint: Your email will only be used to send you updates about CycleHack Berlin.
     We use Mailchimp to send out updates. See their <a href='http://mailchimp.com/legal/privacy/'
     target='_blank'>Privacy Policy</a>.
 ---

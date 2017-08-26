@@ -1,5 +1,5 @@
 ---
-title: index.md
+title: Cyclehack Berlin 2017
 intro:
   tagline: 3 Tage voller Ideen für die Fahrradstadt Berlin
   more: Was ist ein CycleHack?

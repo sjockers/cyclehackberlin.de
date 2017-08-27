@@ -1,7 +1,7 @@
 ---
 title: CycleHack Berlin 2017
 intro:
-  tagline: 3 Tage voller Ideen für die Fahrradstadt Berlin
+  tagline: 48 Stunden voller neuer Ideen für die Fahrradstadt Berlin
   more: Was ist ein CycleHack?
   join: Newsletter
   content: 'Vom 15. bis 17. September 2017 arbeiten wir gemeinsam daran, Radfahren

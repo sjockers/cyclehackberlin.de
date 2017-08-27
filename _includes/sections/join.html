@@ -1,7 +1,7 @@
 <div class="section__main">
   <header class="header">
     <a class="main-logo" href="/">
-      <h1 >CycleHack Berlin</h1>
+      <h1>CycleHack Berlin</h1>
     </a>
   </header>
 
@@ -15,8 +15,12 @@
     <div class="teaser">
       {{ page.join.teaser }}
     </div>
-    <a href="{% post_url 2016-06-30-rueckblick %}" class="call-to-action--highlight">{{ page.join.more }}</a>
-    <a href="#schedule" class="call-to-action--secondary">{{ page.join.schedule }}</a>
+    <a href="{{ page.join.more_url }}" class="call-to-action--highlight">
+      {{ page.join.more }}
+    </a>
+    <a href="{{ page.join.schedule_url }}" class="call-to-action--secondary">
+      {{ page.join.schedule }}
+    </a>
   </div>
 </div>
 

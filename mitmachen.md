@@ -8,9 +8,9 @@ join:
   more: Zur Anmeldung
   more_url: ''
   schedule: Programm 2017
-  schedule_url: '#schedule'
-  teaser: '48 Stunden voller neuer Ideen, Projekte und Kampagnen für besseres Radfahren in Berlin. Macht mit!'
-
+  schedule_url: "#schedule"
+  teaser: 48 Stunden voller neuer Ideen, Projekte und Kampagnen für besseres Radfahren
+    in Berlin. Macht mit!
 schedule:
 - date: Freitag, 15. September 2017
   items:

@@ -6,7 +6,7 @@ join:
   date: 15. bis 17. September
   venue: Im Fab Lab Berlin
   more: Zur Anmeldung
-  more_url: ''
+  more_url: 'https://pretix.eu/cyclehackber/2017/'
   schedule: Programm 2017
   schedule_url: "#schedule"
   teaser: 48 Stunden voller neuer Ideen, Projekte und Kampagnen für besseres Radfahren

@@ -3,7 +3,8 @@ title: CycleHack Berlin 2017
 intro:
   tagline: 48 Stunden voller neuer Ideen für die Fahrradstadt Berlin
   more: Was ist ein CycleHack?
-  join: Newsletter
+  join: Mitmachen
+  join_url: '/mitmachen/'
   content: 'Vom 15. bis 17. September 2017 arbeiten wir gemeinsam daran, Radfahren
     in Berlin besser und sicherer zu machen.
 
@@ -28,6 +29,7 @@ teaser:
 about:
   title: Was ist ein CycleHack?
   call_to_action: Schick uns Deine Idee
+  join: Mitmachen
   content: "<p>Ein CycleHack ist eine Idee, die Menschen aufs Rad bringen soll und
     schnell als Prototyp umgesetzt und getestet werden kann.</p> <p>CycleHacks können
     physische Produkte sein, digitale Anwendungen, Kampagnen, oder Ideen zur Fahrradinfrastruktur.

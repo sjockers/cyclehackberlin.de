@@ -4,7 +4,7 @@ intro:
   tagline: 48 Stunden voller neuer Ideen für die Fahrradstadt Berlin
   more: Was ist ein CycleHack?
   join: Mitmachen
-  join_url: '/mitmachen/'
+  join_url: "/mitmachen/"
   content: 'Vom 15. bis 17. September 2017 arbeiten wir gemeinsam daran, Radfahren
     in Berlin besser und sicherer zu machen.
 

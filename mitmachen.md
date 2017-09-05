@@ -18,6 +18,18 @@ schedule:
     name: Einlass und Begrüßung
   - time: '19:30'
     name: Kick-off mit Vorträgen
+    content: |
+      <ul>
+        <li>
+          Annette Krüger, <a href="http://bikeygees.org">Bikeygees</a>
+        </li>
+        <li>
+          Slaven Rezic, <a href="http://www.bbbike.de">BBBike</a>
+        </li>
+        <li>
+          Lars Zimmermann, <a href="http://thecityisopensource.bloglz.de/hacking-to-create-the-free-sustainable-circular-city/">The City Is Open Source</a>
+        </li>
+      </ul>
   - time: '20:30'
     name: Ideenfindung und Gruppenbildung
     content: |
@@ -89,4 +101,3 @@ newsletter:
     verwenden wir Mailchimp, dessen <a href='http://mailchimp.com/legal/privacy/'
     target='_blank'>Privacy Policy</a> du hier einsehen kannst.
 ---
-

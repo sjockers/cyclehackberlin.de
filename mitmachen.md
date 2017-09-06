@@ -11,6 +11,7 @@ join:
   schedule_url: "#schedule"
   teaser: 48 Stunden voller neuer Ideen, Projekte und Kampagnen für besseres Radfahren
     in Berlin. Macht mit!
+extras: Rahmenprogramm
 schedule:
 - date: Freitag, 15. September 2017
   items:
@@ -102,3 +103,33 @@ newsletter:
     target='_blank'>Privacy Policy</a> du hier einsehen kannst.
 ---
 
+#### 3D-Druck und Laser-Cutting: Einführungen im FabLab
+
+Für alle, die im FabLab mit 3D-Druckern oder Laser-Cuttern arbeiten möchten aber keine Ahnung haben wie das geht. Die Teilnahme ist kostenlos, Spenden sind willkommen.
+
+<ul>
+  <li>
+    5. September, 18:00 - 20:00 –
+    <a href="https://fablab.berlin/de/learning/23-3d-printing-introduction.html">Einführung 3D-Druck</a>
+  </li>
+  <li>
+    6. September, 18:00 - 20:00 –
+    <a href="https://fablab.berlin/de/learning/22-lasercutter-introduction.html">Einführung Laser-Cutting</a>
+  </li>
+  <li>
+    12. September, 18:00 - 20:00 –
+    <a href="https://fablab.berlin/de/learning/22-lasercutter-introduction.html">Einführung 3D-Druck</a>
+  </li>
+  <li>
+    13. September, 18:00 - 20:00 –
+    <a href="https://fablab.berlin/de/learning/23-3d-printing-introduction.html">Einführung Laser-Cutting</a>
+  </li>
+</ul>
+
+#### PARK(ing) Day am CycleHack-Freitag
+
+Der [PARK(ing) Day](http://www.parking-day-berlin.de/) ist eine jährliche weltweite Aktion, bei der Künstler, Designer, Aktivisten oder ganz normale Bürger einen abgegrenzten Parkplatz in einen temporären öffentlichen Park verwandeln. Macht mit!
+
+#### ADFC-Fahrradkreisfahrt am CycleHack-Samstag
+
+Für alle, die mit ihren brandneuen Fahrrad-Hacks auf die Straße wollen, gibt es am Sonntag die [Fahrrad-Kreisfahrt des ADFC](http://adfc-berlin.de/aktiv-werden/bei-demonstrationen/kreisfahrt/460-adfc-kreisfahrt-2017.html). Eine Woche vor der Bundestagswahl demonstrieren wir gegen Diesel in den Städten und für nachhaltige Mobilität.

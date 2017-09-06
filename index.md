@@ -6,8 +6,8 @@ intro:
   more: Was ist ein CycleHack?
   join: Mitmachen
   join_url: "/mitmachen/"
-  content: 'Für 48 Stunden arbeiten wir gemeinsam daran, Radfahren
-    in Berlin besser und sicherer zu machen.
+  content: 'Für 48 Stunden arbeiten wir gemeinsam daran, Radfahren in Berlin besser
+    und sicherer zu machen.
 
 '
 teaser:

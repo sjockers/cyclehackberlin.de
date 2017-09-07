@@ -74,6 +74,9 @@ partners:
   - name: SNOM
     logo: snom.svg
     url: https://snom.com/
+  - name: Velokonzept
+    logo: velokonzept.png
+    url: http://velokonzept.de/
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

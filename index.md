@@ -65,6 +65,9 @@ partners:
     logo: dbopendata.png
     url: http://data.deutschebahn.com/apis/
   silver:
+  - name: eMO
+    logo: emo.png
+    url: http://www.emo-berlin.de/
   - name: Boreal Bikes
     logo: borealbikes.png
     url: https://borealbikes.com/

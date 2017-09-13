@@ -132,6 +132,15 @@ Für alle, die im FabLab mit 3D-Druckern oder Laser-Cuttern arbeiten möchten ab
 
 Der [PARK(ing) Day](http://www.parking-day-berlin.de/) ist eine jährliche weltweite Aktion, bei der Künstler, Designer, Aktivisten oder ganz normale Bürger einen abgegrenzten Parkplatz in einen temporären öffentlichen Park verwandeln. Macht mit!
 
+#### Fahrrad codieren und Siebdruck angeboten durch den ADFC am Samstag
+
+Parrallel beziehungsweise ergänzend zum Samstags-Program wird der ADFC auch am FabLab vor Ort sein. 
+Ihr bekommt die Möglichkeit eure Fahrräder codieren zu lassen,
+um besser gewappnet zu sein gegen Diebe. 
+Außerdem wird es den Tag über die Möglichkeit geben, 
+eigene T-Shirts mit Siebdruck bedrucken zu lassen. 
+Mehr Informationen findet ihr [hier](http://cyclehackberlin.de/2017/09/13/adfc-codiern-und-siebdruck.html)
+
 #### ADFC-Fahrradkreisfahrt am CycleHack-Samstag
 
 Für alle, die mit ihren brandneuen Fahrrad-Hacks auf die Straße wollen, gibt es am Sonntag die [Fahrrad-Kreisfahrt des ADFC](http://adfc-berlin.de/aktiv-werden/bei-demonstrationen/kreisfahrt/460-adfc-kreisfahrt-2017.html). Eine Woche vor der Bundestagswahl demonstrieren wir gegen Diesel in den Städten und für nachhaltige Mobilität.

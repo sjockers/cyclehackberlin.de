@@ -22,7 +22,7 @@ schedule:
     content: |
       <ul>
         <li>
-          Anne Seebach, <a href="http://bikeygees.org">Bikeygees</a>
+          Anne Seebach, <a href="http://bikeygees.org">#BIKEYGEES e.V.</a>
         </li>
         <li>
           Slaven Rezic, <a href="http://www.bbbike.de">BBBike</a>

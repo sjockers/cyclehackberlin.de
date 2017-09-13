@@ -86,8 +86,8 @@ ideas:
   submit: Idee einreichen
   form_url: https://cyclehackberlin.typeform.com/to/PuVnYD
   content: '<p>Der CycleHack findet im <a href="https://fablab.berlin/">Fab Lab Berlin</a>
-    statt, einer offenen Entwicklungswerkstatt. Hier stehen euch Werkzeug und Geräte
-    wie 3D-Drucker und Laser-Cutter zur Verfügung. Außerdem stellen wir Daten zur
+    (Prenzlauer Allee 242, 10405 Berlin) statt, einer offenen Entwicklungswerkstatt. Hier stehen
+    euch Werkzeug und Geräte wie 3D-Drucker und Laser-Cutter zur Verfügung. Außerdem stellen wir Daten zur
     Fahrradinfrastruktur und Fahrradnutzung in Berlin bereit.</p> <p>Ihr seid dazu
     aufgerufen, eure eigenen Ideen, Materialien und Werkzeuge beizusteuern. Bei der
     Umsetzung eurer Ideen erhaltet ihr Hilfe von sachkundigen Coaches.</p> <p>Wir

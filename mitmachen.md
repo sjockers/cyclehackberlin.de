@@ -28,6 +28,9 @@ schedule:
           Slaven Rezic, <a href="http://www.bbbike.de">BBBike</a>
         </li>
         <li>
+          Matthias Heskamp, <a href="http://radbahn.berlin/">Radbahn Berlin</a>
+        </li>
+        <li>
           Lars Zimmermann, <a href="http://thecityisopensource.bloglz.de/hacking-to-create-the-free-sustainable-circular-city/">The City Is Open Source</a>
         </li>
       </ul>

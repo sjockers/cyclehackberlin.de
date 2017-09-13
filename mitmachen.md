@@ -54,10 +54,8 @@ schedule:
   - time: '09:30'
     name: Einführung und Aufteilung in Teams
   - time: '11:00'
-    name: HackTime
+    name: HackTime und Brunch
     content: Teamarbeit und spontane Workshops
-  - time: '13:00'
-    name: Gemeinsames Mittagessen
   - time: '14:00'
     name: HackTime
     content: Teamarbeit und spontane Workshops

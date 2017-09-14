@@ -143,4 +143,4 @@ Mehr Informationen findet ihr [hier](http://cyclehackberlin.de/2017/09/13/adfc-c
 
 #### ADFC-Fahrradkreisfahrt am CycleHack-Samstag
 
-Für alle, die mit ihren brandneuen Fahrrad-Hacks auf die Straße wollen, gibt es am Sonntag die [Fahrrad-Kreisfahrt des ADFC](http://adfc-berlin.de/aktiv-werden/bei-demonstrationen/kreisfahrt/460-adfc-kreisfahrt-2017.html). Eine Woche vor der Bundestagswahl demonstrieren wir gegen Diesel in den Städten und für nachhaltige Mobilität.
+Für alle, die mit ihren brandneuen Fahrrad-Hacks auf die Straße wollen, gibt es am Samstag die [Fahrrad-Kreisfahrt des ADFC](http://adfc-berlin.de/aktiv-werden/bei-demonstrationen/kreisfahrt/460-adfc-kreisfahrt-2017.html). Eine Woche vor der Bundestagswahl demonstrieren wir gegen Diesel in den Städten und für nachhaltige Mobilität.

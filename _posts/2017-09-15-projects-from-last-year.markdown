@@ -20,4 +20,7 @@ Einige Projekte waren mehr fertig, die anderen weniger. Aber das sind ja auch nu
 
 Jetzt seit Ihr dran! Bringt Eure Ideen oder lasst Euch von anderen inspirieren. Wir freuen uns auf Euch!
 
-Mehr zu den Projekten von CycleHack Berlin 2016 könnt Ihr [hier](http://cyclehackberlin.de/2016/06/30/rueckblick.html) nachlesen:
+Mehr zu den Projekten von CycleHack Berlin 2016 könnt Ihr [hier nachlesen](http://cyclehackberlin.de/2016/06/30/rueckblick.html).
+
+- [Programm für den CycleHack Berlin 2017](http://cyclehackberlin.de/mitmachen/)
+- [Anmeldung für den CycleHack Berlin 2017](https://pretix.eu/cyclehackber/2017/)

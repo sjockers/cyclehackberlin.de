@@ -1,7 +1,8 @@
 ---
 title: Fahrräder codieren und Shirts bedrucken beim CycleHack 2017
 date: 2017-09-13 07:16:00 Z
-lead: Der ADFC unterstützt den CycleHack Berlin mit einer Codieraktion und einer kleinen Siebdruck-Werkstatt
+lead: Der ADFC unterstützt den CycleHack Berlin mit einer Codieraktion und einer kleinen
+  Siebdruck-Werkstatt
 picture: "/uploads/adfc-siebdruck.jpg"
 ---
 

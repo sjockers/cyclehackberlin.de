@@ -1,18 +1,14 @@
 ---
-title: Fahrräder codieren und Siebdruck vom ADFC auf dem CycleHack 2017!
+title: Fahrräder codieren und Shirts bedrucken beim CycleHack 2017
 date: 2017-09-13 07:16:00 Z
-lead: Am Samstag wird nicht nur gehackt ;)
-picture: "/uploads/adfc-codierung.jpg"
+lead: Der ADFC unterstützt den CycleHack Berlin mit Siebdruck und einer Codieraktion
+picture: "/uploads/adfc-siebdruck.jpg"
 ---
 
-Du hattest schon immer mal Lust, Siebdruck auszuprobieren und Dein eigenes Fahrradmotiv zu drucken? Auf dem CycleHack Berlin kannst Du mit dem ADFC Dein eigenes T-Shirt gestalten!
+Du hattest schon immer mal Lust, Siebdruck auszuprobieren und dein eigenes Fahrradmotiv zu drucken? Auf dem CycleHack Berlin kannst du mit dem ADFC dein eigenes T-Shirt gestalten!
 
-Am Samstag ist der ADFC mit einer Siebdruck-Aktion beim CycleHack dabei! Bring dazu ein paar Ideen, dein **eigenes T-Shirt**, Pullover oder anderen Stoff mit und dann kannst Du Dich mit Motiv und Farbe ausprobieren.
+Am Samstagnachmittag ist der ADFC mit einer Siebdruck-Aktion beim CycleHack dabei! Bring dazu ein paar Ideen, dein **eigenes T-Shirt**, Pullover oder anderen Stoff mit und dann kannst du dich mit Motiv und Farbe ausprobieren.
 
-Ebenso ist es möglich, Dein Fahrrad bei der Aktion am Samstag codieren zu lassen. Hierbei wird in deinen Rahmen ein Code eingraviert, der das Fahrrad besser vor Diebstahl schützt.
+Für alle, die ihre Fahrräder gegen Diebstahl schützen wollen, bietet der ADFC am Samstagabend an, eure Fahrräder zu codieren. Dabei wird ein eindeutiger Code in deinen Fahrrad-Rahmen gefräst. Das schreckt Diebe ab und macht es schwieriger, gestohlene Fahrräder zu verkaufen. Mehr Infos zur Fahrrad-Codierung findest du auf der [Website des ADFC Berlin](http://adfc-berlin.de/service/461-aktion-codiersommer.html).
 
-Beides findet parallel zum Hacken am FabLab statt. Die Codieraktion wird am Samstag den **16.09.2017** von **19 bis 20 Uhr** möglich sein. Der Siebdruck wird vorraussichtlich am gleichen Samstag den ganzen Tag über angeboten.
-
-Für beide Angebote sind auch nicht angemeldete Teilnehmer ausdrücklich erwünscht! Wir freuen uns auf zahlreiches Erscheinen.
-
-Euer CycleHack-Team
+Die Codieraktion wird am Samstag den **16.09.2017 von 19 bis 20 Uhr** stattfinden und ist offen für alle. Eine Anmeldung beim ADFC oder CycleHack ist nicht nötig.

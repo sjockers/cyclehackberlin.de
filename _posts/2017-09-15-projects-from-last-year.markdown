@@ -1,7 +1,7 @@
 ---
 title: Kurzer Rückblick – die Projekte von 2016
 date: 2017-09-15 07:16:00 Z
-lead: "Flash from the past: Inspiration vom CycleHack 2016"
+lead: 'Flash from the past: Inspiration vom CycleHack 2016'
 picture: "/uploads/hack_from_2016.jpg"
 ---
 

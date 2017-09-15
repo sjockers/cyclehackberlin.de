@@ -10,11 +10,11 @@ Nun ist es soweit! Das große CycleHack-Wochenende rückt immer näher! Wir sind
 
 Bevor es aber losgeht wollen wir einen kleinen Rückblick auf das 1. CycleHack-Event in Berlin werfen und uns daran erinnern, welche Projekte im Jahr 2016 entwickelt und ins Leben gerufen wurden.
 
-Sechs verschiedene Hacks wurden am Abschlusstag präsentiert. Der «SmartDynamo», der erkennen soll, ob ein Fahrer abbremst oder sein Rad ausrollen lässt. Mithilfe von «Windsaver» wurde versucht, Strom im Ruhezustand zu produzieren.
+Sechs verschiedene Hacks wurden am Abschlusstag präsentiert. Der «[SmartDynamo](http://catalogue.cyclehack.com/catalogue/smartdynamo/)», der erkennen soll, ob ein Fahrer abbremst oder sein Rad ausrollen lässt. Mithilfe von «Windsaver» wurde versucht, Strom im Ruhezustand zu produzieren.
 
-Nicht uninteressant für das Radfahren sind natürlich auch verschiedene Messgeräte. Letztes Jahr wurden sogar zwei Prototypen gebaut! Z.B. «Dekoboko». Die Idee war einen Erschütterungssensor zu produzieren, der die Qualität des Strassenbelags misst. «Cycle Mass Counter» sollte die Radfahrer/Innen bei Großveranstaltungen wie die Critical Mass oder der Sternfahrt zählen.
+Nicht uninteressant für das Radfahren sind natürlich auch verschiedene Messgeräte. Letztes Jahr wurden sogar zwei Prototypen gebaut! Z.B. «[Dekoboko](http://catalogue.cyclehack.com/catalogue/dekoboko-%e5%87%b8%e5%87%b9-road-quality-mapping/)». Die Idee war einen Erschütterungssensor zu produzieren, der die Qualität des Strassenbelags misst. «Cycle Mass Counter» sollte die Radfahrer/Innen bei Großveranstaltungen wie die Critical Mass oder der Sternfahrt zählen.
 
-Besonders relevant für Berliner Radfahrer/Innen waren zwei digitale Projekte. «BerlinBikeBot» wurde entwickelt, um Fragen rund um Berlin und Fahrrad zu beantworten, wie z.B. über das Wetter oder wann die nächste Critical Mass stattfindet. Die Analyse der Radunfallstatistik in Berlin stellte eine digitale Karte dar, die die Anzahl der Unfälle auf den Straßen anzeigte.
+Besonders relevant für Berliner Radfahrer/Innen waren zwei digitale Projekte. «[BerlinBikeBot](http://catalogue.cyclehack.com/catalogue/berlinbikebot/)» wurde entwickelt, um Fragen rund um Berlin und Fahrrad zu beantworten, wie z.B. über das Wetter oder wann die nächste Critical Mass stattfindet. Die Analyse der Radunfallstatistik in Berlin stellte eine digitale Karte dar, die die Anzahl der Unfälle auf den Straßen anzeigte.
 
 Einige Projekte waren mehr fertig, die anderen weniger. Aber das sind ja auch nur Ideen, die sich weiter entwickeln lassen! Alles in allem war das Großartig!
 

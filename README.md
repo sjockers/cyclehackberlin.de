@@ -18,7 +18,7 @@ $ bundle install
 Run a local server for development (Guard will spin up a web server and [livereload](https://github.com/guard/guard-livereload)):
 
 ```
-$ bundle exec Guard
+$ bundle exec guard
 ```
 
 Now browse to http://localhost:4000

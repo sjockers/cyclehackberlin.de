@@ -17,13 +17,20 @@ Zum Abschluss des Abends durften die Teilnehmer ihre Ideen kurz vorstellen und f
 
 # Samstag
 Samstag früh ging es schnell zur Sache und nach einem leckeren Frühstück wurde bereits ausgiebig gehackt. 
-Das Team Sense10 entwickelte einen mobilen Feinstaub-Sensor fürs Fahrrad, der 
 
-### blink/blink
-### Siebdruck
-### bike maps
-### Lidar Bike
-### Bikeaccidents AR
+Das Team **Sense10** entwickelte einen mobilen Feinstaub-Sensor fürs Fahrrad, der die gesammelten Daten mittels eines IoT-Protokolls überträgt.
+
+**Blink/Blink** ist ein Armband, das über Sensoren die Armbewegungen erkennt und beim ausstrecken des Armes blinkt.
+
+Das **Lidar Bike-Projekt** arbeitet mit sogenannten Lidar-Sensoren, die aus dem Automobil-Bereich bekannt sind eine computergesteuerte Umgebungserkennung im Fahrrad zu integrieren.  
+
+Für die **mobile Siebdruck-Station** des ADFC wurden fleißig Motive entwickelt. 
+
+**Bike Maps** experimentierte mit der automatisch generierten Liniennetzen der europäischen Radfernwege.
+
+Das Team **Bikeaccidents AR** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.
+ 
+
 ### AbschlApp
 ### bbbike
 ## Sponsoren & Orga

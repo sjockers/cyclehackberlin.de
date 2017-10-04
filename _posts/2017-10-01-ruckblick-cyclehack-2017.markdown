@@ -56,7 +56,7 @@ Der Sonntag morgen ging ebenso konzentriert los wie der Vortag. Alle Teams waren
 Bevor es zu den finalen Präsentationen überging, gab es noch lecker Pizza für alle.
 ![36464870783_184c13d9fb_z.jpg](/uploads/36464870783_184c13d9fb_z.jpg)
 
-Gut gestärkt ging es dann zu den Abschlusspräsentationen und das Fab Lab füllte sich langsam mit interessiertem Publikum. Die Besucher waren sehr interessiert und es gab zu jedem Projekt Publikumsfragen. 
+Gut gestärkt ging es dann zu den Abschlusspräsentationen und das Fab Lab füllte sich langsam mit Publikum. Die Besucher waren sehr interessiert und es gab zu jedem Projekt Publikumsfragen. 
 Nach den Danksagungen an Teilnehmer, Orga-Team und den Sponsoren ging das Event langsam dem Ende entgegen. Sowohl die Teilnehmer und das Orga-Team waren erschöpft aber glücklich über die erschaffenen Dinge. Alle waren sich einig: Nächstes Jahr gerne wieder!
 
 Wer sich noch mehr Bilder anschauen möchte schaut am besten bei [flickr](https://www.flickr.com/photos/cyclehackber/albums/with/72157686754772194) rein.

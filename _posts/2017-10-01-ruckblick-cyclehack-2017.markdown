@@ -43,7 +43,7 @@ Das **[BBBike](http://catalogue.cyclehack.com/catalogue/bbbike/)**-Team wurde we
 
 
 Das Team **[Bikeaccidents AR](http://catalogue.cyclehack.com/catalogue/bikeaccidentsar/)** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.
-![36439419724_c73e70fe54_z.jpg](/uploads/36439419724_c73e70fe54_z.jpg)
+![IMG_2644.png](/uploads/IMG_2644.png)
  
 Team **[AbschlApp](http://catalogue.cyclehack.com/catalogue/abschlapp/)** entwickelte eine Smartphone-App, die den Leitfaden der Initiative Autofreies Kreuzberg komfortabler im Straßenverkehr nutzen lässt. So gibt die App eine Schritt für Schritt Anleitung um eine Verkehrsbehinderung zu melden mit bspw. der konkreten Adressangabe. 
 ![37140316011_89a45d0826_z.jpg](/uploads/37140316011_89a45d0826_z.jpg)

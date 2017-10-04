@@ -1,7 +1,7 @@
 ---
 title: Rückblick Cyclehack 2017
 date: 2017-10-01 14:16:00 Z
-lead: "3 Tage Cyclehack. \n\n2. mal in Berlin. \n\n1 Ziel. \n\nWas ist passiert?"
+lead: Drei Tage Cyclehack. Zum zweiten mal in Berlin.  Mit einem Ziel. Was ist passiert?
 picture: "/uploads/ch.jpg"
 ---
 

@@ -37,6 +37,8 @@ Für die **mobile Siebdruck-Station** des ADFC wurden fleißig Motive entwickelt
 
 **Eurovelo Routemap** experimentierte mit der automatisch generierten Liniennetzen der europäischen Radfernwege.
 
+**Size of CM** beschäftigte sich mit der Problemstellung, eine möglichst zuverlässige Aussage treffen zu können, wie viele Radfahrer bei der Critical Mass teilgenommen haben.
+
 Das Team **Bikeaccidents AR** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.
 ![36439419724_c73e70fe54_z.jpg](/uploads/36439419724_c73e70fe54_z.jpg)
  

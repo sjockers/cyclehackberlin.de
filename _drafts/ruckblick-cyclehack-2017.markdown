@@ -30,9 +30,7 @@ Für die **mobile Siebdruck-Station** des ADFC wurden fleißig Motive entwickelt
 
 Das Team **Bikeaccidents AR** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.
  
-
-### AbschlApp
-### bbbike
+Team **AbschlApp** entwickelte eine Smartphone-App, die den Leitfaden der Initiative Autofreies Kreuzberg komfortabler im Straßenverkehr nutzen lässt. So gibt die App eine Schritt für Schritt Anleitung um eine Verkehrsbehinderung zu melden mit bspw. der konkreten Adressangabe. 
 
 Samstag Abend wurde dann Gegrillt und die Teilnehmer haben sich bereits locker in kleinen Runden ausgetauscht über über Projekte, aber natürlich auch über privates und sonstige spannende Ereignisse.  
 

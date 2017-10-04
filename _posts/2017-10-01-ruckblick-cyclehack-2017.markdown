@@ -23,7 +23,7 @@ Zum Abschluss des Abends durften die Teilnehmer ihre Ideen kurz vorstellen und f
 # Samstag
 Samstag früh ging es schnell zur Sache und nach einem leckeren Frühstück wurde bereits ausgiebig gehackt. 
 
-Das Team **Sense10** entwickelte einen mobilen Feinstaub-Sensor fürs Fahrrad, der die gesammelten Daten mittels eines IoT-Protokolls überträgt.
+Das Team **[Sense10](https://github.com/technologiestiftung/Sense10)** entwickelte einen mobilen Feinstaub-Sensor fürs Fahrrad, der die gesammelten Daten mittels eines IoT-Protokolls überträgt.
 ![37107731752_769514959e_z.jpg](/uploads/37107731752_769514959e_z.jpg)
 
 **Blink/Blink** ist ein Armband, das über Sensoren die Armbewegungen erkennt und beim ausstrecken des Armes blinkt.
@@ -42,7 +42,7 @@ Für die **mobile Siebdruck-Station** des ADFC wurden fleißig Motive entwickelt
 Das Team **Bikeaccidents AR** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.
 ![36439419724_c73e70fe54_z.jpg](/uploads/36439419724_c73e70fe54_z.jpg)
  
-Team **AbschlApp** entwickelte eine Smartphone-App, die den Leitfaden der Initiative Autofreies Kreuzberg komfortabler im Straßenverkehr nutzen lässt. So gibt die App eine Schritt für Schritt Anleitung um eine Verkehrsbehinderung zu melden mit bspw. der konkreten Adressangabe. 
+Team **[AbschlApp](http://catalogue.cyclehack.com/catalogue/abschlapp/)** entwickelte eine Smartphone-App, die den Leitfaden der Initiative Autofreies Kreuzberg komfortabler im Straßenverkehr nutzen lässt. So gibt die App eine Schritt für Schritt Anleitung um eine Verkehrsbehinderung zu melden mit bspw. der konkreten Adressangabe. 
 ![37140316011_89a45d0826_z.jpg](/uploads/37140316011_89a45d0826_z.jpg)
 
 Samstag Abend wurde dann Gegrillt und die Teilnehmer haben sich bereits locker in kleinen Runden ausgetauscht über über Projekte, aber natürlich auch über alles mögliche andere spannende.  

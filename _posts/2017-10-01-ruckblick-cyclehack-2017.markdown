@@ -26,7 +26,7 @@ Samstag früh ging es schnell zur Sache und nach einem leckeren Frühstück wurd
 Das Team **[Sense10](https://github.com/technologiestiftung/Sense10)** entwickelte einen mobilen Feinstaub-Sensor fürs Fahrrad, der die gesammelten Daten mittels eines IoT-Protokolls überträgt.
 ![37107731752_769514959e_z.jpg](/uploads/37107731752_769514959e_z.jpg)
 
-**Blink/Blink** ist ein Armband, das über Sensoren die Armbewegungen erkennt und beim ausstrecken des Armes blinkt.
+**Bracelit** ist ein Armband, das über Sensoren die Armbewegungen erkennt und beim ausstrecken des Armes blinkt.
 ![36428673094_43f31e0a8c_z.jpg](/uploads/36428673094_43f31e0a8c_z.jpg)
 
 Das **Lidar Bike-Projekt** arbeitet mit sogenannten Lidar-Sensoren, die aus dem Automobil-Bereich bekannt sind eine computergestützte Umgebungserkennung im Fahrrad zu integrieren.

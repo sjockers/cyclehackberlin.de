@@ -27,13 +27,15 @@ Das Team **Sense10** entwickelte einen mobilen Feinstaub-Sensor fürs Fahrrad, d
 ![37107731752_769514959e_z.jpg](/uploads/37107731752_769514959e_z.jpg)
 
 **Blink/Blink** ist ein Armband, das über Sensoren die Armbewegungen erkennt und beim ausstrecken des Armes blinkt.
+![36428673094_43f31e0a8c_z.jpg](/uploads/36428673094_43f31e0a8c_z.jpg)
 
-
-Das **Lidar Bike-Projekt** arbeitet mit sogenannten Lidar-Sensoren, die aus dem Automobil-Bereich bekannt sind eine computergestützte Umgebungserkennung im Fahrrad zu integrieren.  
+Das **Lidar Bike-Projekt** arbeitet mit sogenannten Lidar-Sensoren, die aus dem Automobil-Bereich bekannt sind eine computergestützte Umgebungserkennung im Fahrrad zu integrieren.
+![36464870233_d8360e4da5_z.jpg](/uploads/36464870233_d8360e4da5_z.jpg)  
 
 Für die **mobile Siebdruck-Station** des ADFC wurden fleißig Motive entwickelt. 
+![36451223003_53b760735f_z.jpg](/uploads/36451223003_53b760735f_z.jpg)
 
-**Bike Maps** experimentierte mit der automatisch generierten Liniennetzen der europäischen Radfernwege.
+**Eurovelo Routemap** experimentierte mit der automatisch generierten Liniennetzen der europäischen Radfernwege.
 
 Das Team **Bikeaccidents AR** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.
  

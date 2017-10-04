@@ -54,6 +54,7 @@ Bevor es zu den finalen Präsentationen überging, gab es noch lecker Pizza für
 Gut gestärkt ging es dann zu den Abschlusspräsentationen und das Fab Lab füllte sich langsam mit interessiertem Publikum. Die Besucher waren sehr interessiert und es gab zu jedem Projekt Publikumsfragen. 
 Nach den Danksagungen an Teilnehmer, Orga-Team und den Sponsoren ging das Event langsam dem Ende entgegen. Sowohl die Teilnehmer und das Orga-Team waren erschöpft aber glücklich über die erschaffenen Dinge. Alle waren sich einig: Nächstes Jahr gerne wieder!
 
+Wer sich noch mehr Bilder anschauen möchte schaut am besten bei [flickr](https://www.flickr.com/photos/cyclehackber/albums/with/72157686754772194) rein.
 
 Für eine gelungene Veranstaltung sind alle Teilnehmer wichtig und ohne die finanzielle und organisatorische Unterstützung unserer Sponsoren wäre unsere Veranstaltung wie wir sie erlebt haben nicht möglich gewesen. Daher auch ein riesiges Dankeschön an [DB Mindbox](https://dbmindbox.com/), [Fab Lab Berlin](https://fablab.berlin/), [Open Knowledge Foundation](https://okfn.de/), [Emo-Berlin](http://www.emo-berlin.de/), [Velo-Konzept](http://www.velokonzept.de/), [Boreal Bikes](https://borealbikes.com/) und [snom](https://www.snom.com/) wäre die Veranstaltung so nicht möglich gewesen.
 

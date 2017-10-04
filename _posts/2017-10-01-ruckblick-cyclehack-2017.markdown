@@ -2,6 +2,7 @@
 title: Rückblick Cyclehack 2017
 date: 2017-10-01 14:16:00 Z
 lead: "3 Tage Cyclehack. \n2. mal in Berlin. \n1 Ziel. \nWas ist passiert?"
+picture: "/uploads/ch.jpg"
 ---
 
 Vom 15. bis 17. September 2017 haben wir uns getroffen um das Fahrradfahren sicherer, schöner und angenehmer zu machen. Und das ist passier:

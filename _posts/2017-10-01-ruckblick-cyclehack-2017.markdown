@@ -39,7 +39,7 @@ Für die **mobile Siebdruck-Station** des ADFC wurden fleißig Motive entwickelt
 
 **Size of CM** beschäftigte sich mit der Problemstellung, eine möglichst zuverlässige Aussage treffen zu können, wie viele Radfahrer bei der Critical Mass teilgenommen haben.
 
-An [BBBike](http://catalogue.cyclehack.com/catalogue/bbbike/) wurde weiter an der Routenoptimierung gearbeitet.
+Das **[BBBike](http://catalogue.cyclehack.com/catalogue/bbbike/)-Team** wurde weiter an der Routenoptimierung gearbeitet.
 
 
 Das Team **[Bikeaccidents AR](http://catalogue.cyclehack.com/catalogue/bikeaccidentsar/)** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.

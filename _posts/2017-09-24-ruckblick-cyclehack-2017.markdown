@@ -45,7 +45,7 @@ Gut gestärkt ging es dann zu den Abschlusspräsentationen und das Fab Lab füll
 Nach den Danksagungen an Teilnehmer, Orga-Team und den Sponsoren ging das Event langsam dem Ende entgegen. Sowohl die Teilnehmer und das Orga-Team waren erschöpft aber glücklich über die erschaffenen Dinge. Alle waren sich einig: Nächstes Jahr gerne wieder!
 
 
-Für eine gelungene Veranstaltung sind alle Teilnehmer wichtig und ohne die finanzielle und organisatorische Unterstützung unserer Sponsoren wäre unsere Veranstaltung wie wir sie erlebt haben nicht möglich gewesen. Daher auch ein riesiges Dankeschön an DB Mindbox, Fab Lab Berlin, Open Knowledge Foundation, Emo-Berlin, Velo-Konzept, Boreal Bikes und Snom wäre die Veranstaltung so nicht möglich gewesen.
+Für eine gelungene Veranstaltung sind alle Teilnehmer wichtig und ohne die finanzielle und organisatorische Unterstützung unserer Sponsoren wäre unsere Veranstaltung wie wir sie erlebt haben nicht möglich gewesen. Daher auch ein riesiges Dankeschön an [DB Mindbox](https://dbmindbox.com/), [Fab Lab Berlin](https://fablab.berlin/), [Open Knowledge Foundation](https://okfn.de/), [Emo-Berlin](http://www.emo-berlin.de/), [Velo-Konzept](http://www.velokonzept.de/), [Boreal Bikes](https://borealbikes.com/) und [snom](https://www.snom.com/) wäre die Veranstaltung so nicht möglich gewesen.
 
 Danke auch an alle Teilnehmer und an das Orga-Team.
 

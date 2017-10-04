@@ -1,7 +1,6 @@
 ---
 title: Rückblick Cyclehack 2017
-date: 2017-09-24 14:16:00 Z
-published: false
+date: 2017-10-01 14:16:00 Z
 lead: "3 Tage Cyclehack. \n2. mal in Berlin. \n1 Ziel. \nWas ist passiert?"
 ---
 
@@ -38,8 +37,10 @@ Für die **mobile Siebdruck-Station** des ADFC wurden fleißig Motive entwickelt
 **Eurovelo Routemap** experimentierte mit der automatisch generierten Liniennetzen der europäischen Radfernwege.
 
 Das Team **Bikeaccidents AR** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.
+![36439419724_c73e70fe54_z.jpg](/uploads/36439419724_c73e70fe54_z.jpg)
  
 Team **AbschlApp** entwickelte eine Smartphone-App, die den Leitfaden der Initiative Autofreies Kreuzberg komfortabler im Straßenverkehr nutzen lässt. So gibt die App eine Schritt für Schritt Anleitung um eine Verkehrsbehinderung zu melden mit bspw. der konkreten Adressangabe. 
+![37140316011_89a45d0826_z.jpg](/uploads/37140316011_89a45d0826_z.jpg)
 
 Samstag Abend wurde dann Gegrillt und die Teilnehmer haben sich bereits locker in kleinen Runden ausgetauscht über über Projekte, aber natürlich auch über alles mögliche andere spannende.  
 
@@ -47,6 +48,7 @@ Samstag Abend wurde dann Gegrillt und die Teilnehmer haben sich bereits locker i
 Der Sonntag morgen ging ebenso konzentriert los wie der Vortag. Alle Teams waren voll bei der Sache und so langsam konnte man beobachten wie ein Team nach dem anderen die ersten Gehversuche mit ihren Projekten starteten. Plötzlich radelte ein Mitglied von Sense10 mit einer kleinen Kiste auf dem dem Gepäckträger davon... und das Augmented-Reality Team hielt immer häufiger ihr Tablet in die Höhe um die Ergebnisse der Arbeit begutachten zu können. Auch Radfahrer mit bisher unbekannten Turnbeuteln, wurden auf dem Parkplatz des Fab Labs erspäht. Das Blink/Blink Team ließ derweil den Lötkolben heißlaufen.
 
 Bevor es zu den finalen Präsentationen überging, gab es noch lecker Pizza für alle.
+![36464870783_184c13d9fb_z.jpg](/uploads/36464870783_184c13d9fb_z.jpg)
 
 Gut gestärkt ging es dann zu den Abschlusspräsentationen und das Fab Lab füllte sich langsam mit interessiertem Publikum. Die Besucher waren sehr interessiert und es gab zu jedem Projekt Publikumsfragen. 
 Nach den Danksagungen an Teilnehmer, Orga-Team und den Sponsoren ging das Event langsam dem Ende entgegen. Sowohl die Teilnehmer und das Orga-Team waren erschöpft aber glücklich über die erschaffenen Dinge. Alle waren sich einig: Nächstes Jahr gerne wieder!

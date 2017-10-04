@@ -9,7 +9,7 @@ Vom 15. bis 17. September 2017 haben wir uns getroffen um das Fahrradfahren sich
 # Freitag
 Am Freitag gab es nach einem kurzen Willkommen vier Vorträge zu spannenden Projekten rund ums radeln, die Inspiration für die Folgetage und einen angeregten Austausch beim anschließenden Büffet sorgen sollten.
 Zunächst hat Anne Seebach das Projekt Bikeygees vorgestellt, das geflüchteten Frauen das Radfahren beibringt.
-Matthias Heskamp vom Radbahn-Projekt erzählte, wie aus einer "Schnappsidee" ein über Landesgrenzen begeisterndes Stadtkonzept entstanden ist, das mittlerweile auch in der Politik starke Befürworter hat.
+Matthias Heskamp vom Radbahn-Projekt erzählte, wie aus einer "Schnappsidee" ein über Landesgrenzen begeisterndes Stadtkonzept entstanden ist, das mittlerweile auch in der Politik mehr und mehr starke Befürworter hat.
 Viele Berlinerinnen und Berliner kennen ihn bestimmt, den BBBike-Routenplaner von Slaven Rezic. Am Freitag hat er erzählt wie er vor den Zeiten von Open Street Maps oder Google Maps begonnen hatte und und welche großen technische Etappen der Routenplaner seitdem durchschritten hat.
 Im vierten Vortrag erzählte Lars Zimmermann wie mit einfachen, aber effektiven Mitteln festgefahrene Umstände im Stadtdschungel gehackt werden können und ganz neue Verhältnisse zwischen Fußgänger, Radfahrer und Autofahrer im Verkehr entstehen können.
 Anschließend wurde das Buffet eröffnet und viel Diskutiert. 
@@ -22,7 +22,7 @@ Das Team **Sense10** entwickelte einen mobilen Feinstaub-Sensor fürs Fahrrad, d
 
 **Blink/Blink** ist ein Armband, das über Sensoren die Armbewegungen erkennt und beim ausstrecken des Armes blinkt.
 
-Das **Lidar Bike-Projekt** arbeitet mit sogenannten Lidar-Sensoren, die aus dem Automobil-Bereich bekannt sind eine computergesteuerte Umgebungserkennung im Fahrrad zu integrieren.  
+Das **Lidar Bike-Projekt** arbeitet mit sogenannten Lidar-Sensoren, die aus dem Automobil-Bereich bekannt sind eine computergestützte Umgebungserkennung im Fahrrad zu integrieren.  
 
 Für die **mobile Siebdruck-Station** des ADFC wurden fleißig Motive entwickelt. 
 
@@ -33,8 +33,19 @@ Das Team **Bikeaccidents AR** baute auf einem letztjährigen Projekt auf, das di
 
 ### AbschlApp
 ### bbbike
-## Sponsoren & Orga
-### Sponsoren
-### Fab Lab
-### Essen
+
+Samstag Abend wurde dann Gegrillt und die Teilnehmer haben sich bereits locker in kleinen Runden ausgetauscht über über Projekte, aber natürlich auch über privates und sonstige spannende Ereignisse.  
+
+# Sonntag
+Der Sonntag morgen ging ebenso konzentriert los wie der Vortag. Alle Teams waren voll bei der Sache und so langsam konnte man beobachten wie ein Team nach dem anderen die ersten Gehversuche mit ihren Projekten starteten. Plötzlich radelte ein Mitglied von Sense10 mit einer kleinen Kiste auf dem dem Gepäckträger davon... und das Augmented-Reality Team hielt immer häufiger ihr Tablet in die Höhe um die Ergebnisse der Arbeit begutachten zu können. Auch Radfahrer mit bisher unbekannten Turnbeuteln, wurden auf dem Parkplatz des Fab Labs erspäht. Das Blink/Blink Team ließ derweil den Lötkolben heißlaufen.
+
+Bevor es zu den finalen Präsentationen überging, gab es noch lecker Pizza für alle.
+
+Gut gestärkt ging es dann zu den Abschlusspräsentationen und das Fab Lab füllte sich langsam mit interessiertem Publikum. Die Besucher waren sehr interessiert und es gab zu jedem Projekt Publikumsfragen. 
+Nach den Danksagungen an Teilnehmer, Orga-Team und den Sponsoren ging das Event langsam dem Ende entgegen. Sowohl die Teilnehmer und das Orga-Team waren erschöpft aber glücklich über die erschaffenen Dinge. Alle waren sich einig: Nächstes Jahr gerne wieder!
+
+
+Für eine gelungene Veranstaltung sind alle Teilnehmer wichtig und ohne die finanzielle und organisatorische Unterstützung unserer Sponsoren wäre unsere Veranstaltung wie wir sie erlebt haben nicht möglich gewesen. Daher auch ein riesiges Dankeschön an DB Mindbox, Fab Lab Berlin, Open Knowledge Foundation, Emo-Berlin, Velo-Konzept, Boreal Bikes und Snom wäre die Veranstaltung so nicht möglich gewesen.
+
+Danke auch an alle Teilnehmer und an das Orga-Team.
 

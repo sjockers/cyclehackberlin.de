@@ -23,10 +23,10 @@ Zum Abschluss des Abends durften die Teilnehmer ihre Ideen kurz vorstellen und f
 # Samstag
 Samstag früh ging es schnell zur Sache und nach einem leckeren Frühstück wurde bereits ausgiebig gehackt. 
 
-Das Team **[Sense10](https://github.com/technologiestiftung/Sense10)** entwickelte einen mobilen Feinstaub-Sensor fürs Fahrrad, der die gesammelten Daten mittels eines IoT-Protokolls überträgt.
+Das Team **[Sense10](http://catalogue.cyclehack.com/catalogue/sense10/)** entwickelte einen mobilen Feinstaub-Sensor fürs Fahrrad, der die gesammelten Daten mittels eines IoT-Protokolls überträgt.
 ![37107731752_769514959e_z.jpg](/uploads/37107731752_769514959e_z.jpg)
 
-**Bracelit** ist ein Armband, das über Sensoren die Armbewegungen erkennt und beim ausstrecken des Armes blinkt.
+**[Bracelit](http://catalogue.cyclehack.com/catalogue/bracelit/)** ist ein Armband, das über Sensoren die Armbewegungen erkennt und beim ausstrecken des Armes blinkt.
 ![36428673094_43f31e0a8c_z.jpg](/uploads/36428673094_43f31e0a8c_z.jpg)
 
 Das **Lidar Bike-Projekt** arbeitet mit sogenannten Lidar-Sensoren, die aus dem Automobil-Bereich bekannt sind eine computergestützte Umgebungserkennung im Fahrrad zu integrieren.
@@ -39,7 +39,10 @@ Für die **mobile Siebdruck-Station** des ADFC wurden fleißig Motive entwickelt
 
 **Size of CM** beschäftigte sich mit der Problemstellung, eine möglichst zuverlässige Aussage treffen zu können, wie viele Radfahrer bei der Critical Mass teilgenommen haben.
 
-Das Team **Bikeaccidents AR** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.
+An [BBBike](http://catalogue.cyclehack.com/catalogue/bbbike/) wurde weiter an der Routenoptimierung gearbeitet.
+
+
+Das Team **[Bikeaccidents AR](http://catalogue.cyclehack.com/catalogue/bikeaccidentsar/)** baute auf einem letztjährigen Projekt auf, das die Unfallstatistiken der Berliner Polizei in ein maschinenlesbares Format umgewandelt hat. Diese Daten hat das Team statistisch analysiert und eine Augmented Reality Anwendung entwickelt.
 ![36439419724_c73e70fe54_z.jpg](/uploads/36439419724_c73e70fe54_z.jpg)
  
 Team **[AbschlApp](http://catalogue.cyclehack.com/catalogue/abschlapp/)** entwickelte eine Smartphone-App, die den Leitfaden der Initiative Autofreies Kreuzberg komfortabler im Straßenverkehr nutzen lässt. So gibt die App eine Schritt für Schritt Anleitung um eine Verkehrsbehinderung zu melden mit bspw. der konkreten Adressangabe. 

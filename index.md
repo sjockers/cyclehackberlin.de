@@ -23,7 +23,8 @@ teaser:
     Gemeinsam entwickelten wir Ideen und Prototypen, um die alltäglichen Hindernisse
     abzubauen, die Menschen vom Radfahren abhalten.</p> <p>CycleHack ist ein globales
     Event, das gleichzeitig in über 30 Städten organisiert wird. Nach dem großen Erfolg
-    von 2016 und 2017 findet der CycleHack in diesem Jahr zum dritten Mal in Berlin statt.</p>\n"
+    von 2016 und 2017 findet der CycleHack in diesem Jahr zum dritten Mal in Berlin
+    statt.</p>\n"
   blog_title: 'Aus dem Blog:'
 about:
   title: Was ist ein CycleHack?
@@ -50,16 +51,18 @@ partners:
   help_out: Helft mit!
   volunteers: <p>CycleHack Berlin wird komplett von Freiwilligen organisiert.</p>
     <p>Du willst uns dabei helfen, dass der Event ein Erfolg wird? Wir suchen Helfer,
-    und Coaches. <a href="mailto:info@cyclehackberlin.de">Melde dich bei
-    uns!</a></p>
-  gold:
-  silver:
+    und Coaches. <a href="mailto:info@cyclehackberlin.de">Melde dich bei uns!</a></p>
+  gold: 
+  silver: 
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse
   submit: Newsletter bestellen
   social: Social Media
-  smallprint: "Deine Email-Adressen wird von uns ausschliesslich zur Information über den CycleHack Berlin genutzt und nicht an Dritte weitergegeben. Für diesen Verteiler verwenden wir <a href='http://mailchimp.com/' target='_blank'>Mailchimp</a>.<br/><a href='/datenschutz.html'>Mehr zum Datenschutz beim CycleHack Berlin</a>"
+  smallprint: Deine Email-Adressen wird von uns ausschliesslich zur Information über
+    den CycleHack Berlin genutzt und nicht an Dritte weitergegeben. Für diesen Verteiler
+    verwenden wir <a href='http://mailchimp.com/' target='_blank'>Mailchimp</a>.<br/><a
+    href='/datenschutz.html'>Mehr zum Datenschutz beim CycleHack Berlin</a>
 layout: home
 ---
 

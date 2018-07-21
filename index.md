@@ -59,10 +59,7 @@ newsletter:
   email: Email-Addresse
   submit: Newsletter bestellen
   social: Social Media
-  smallprint: Deine Email-Adressen wird von uns ausschliesslich zur Information über
-    den CycleHack Berlin genutzt und nicht an Dritte weitergegeben. Für diesen Verteiler
-    verwenden wir Mailchimp, dessen <a href='http://mailchimp.com/legal/privacy/'
-    target='_blank'>Privacy Policy</a> du hier einsehen kannst.
+  smallprint: "Deine Email-Adressen wird von uns ausschliesslich zur Information über den CycleHack Berlin genutzt und nicht an Dritte weitergegeben. Für diesen Verteiler verwenden wir <a href='http://mailchimp.com/' target='_blank'>Mailchimp</a>.<br/><a href='/datenschutz.html'>Mehr zum Datenschutz beim CycleHack Berlin</a>"
 layout: home
 ---
 

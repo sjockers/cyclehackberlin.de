@@ -53,31 +53,7 @@ partners:
     und Coaches. <a href="mailto:info@cyclehackberlin.de">Melde dich bei
     uns!</a></p>
   gold:
-  - name: Fab Lab Berlin
-    logo: fablab.png
-    url: https://fablab.berlin/
-  - name: Open Knowledge Foundation Deutschland
-    logo: okf.svg
-    url: https://okfn.de/
-  - name: DB Open Data
-    logo: dbopendata.png
-    url: http://data.deutschebahn.com/apis/
   silver:
-  - name: ADFC
-    logo: adfc.svg
-    url: http://adfc-berlin.de/
-  - name: eMO
-    logo: emo.png
-    url: http://www.emo-berlin.de/
-  - name: Boreal Bikes
-    logo: borealbikes.png
-    url: https://borealbikes.com/
-  - name: SNOM
-    logo: snom.svg
-    url: https://snom.com/
-  - name: Velokonzept
-    logo: velokonzept.png
-    url: http://velokonzept.de/
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

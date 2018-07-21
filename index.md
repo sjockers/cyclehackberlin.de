@@ -1,8 +1,8 @@
 ---
-title: CycleHack Berlin 2017
+title: CycleHack Berlin 2018
 intro:
   tagline: Neue Ideen für die Fahrradstadt Berlin
-  date: 15. bis 17. September
+  date: 14. bis 16. September
   more: Was ist ein CycleHack?
   join: Mitmachen
   join_url: "/mitmachen/"
@@ -14,18 +14,16 @@ teaser:
   title: CycleHack Berlin
   call_to_action: Programm
   more_links:
-  - text: 'CycleHack Berlin 2016: Rückblick'
-    url: "/2016/06/30/rueckblick.html"
   - text: CycleHack international
     url: http://www.cyclehack.com/
   - text: Hacks aus den vergangenen Jahren
     url: http://www.cyclehack.com/catalogue/
-  content: "<p>Vom 15. bis 17. September 2017 bringen wir für 48 Stunden Fahrradschrauber*innen,
+  content: "<p>Vom 14. bis 16. September 2018 bringen wir für 48 Stunden Fahrradschrauber*innen,
     Designer*innen, Aktivist*innen, Programmierer*innen und viele andere zusammen.
     Gemeinsam entwickelten wir Ideen und Prototypen, um die alltäglichen Hindernisse
     abzubauen, die Menschen vom Radfahren abhalten.</p> <p>CycleHack ist ein globales
     Event, das gleichzeitig in über 30 Städten organisiert wird. Nach dem großen Erfolg
-    von 2016 findet der CycleHack in diesem Jahr zum zweiten Mal in Berlin statt.</p>\n"
+    von 2016 und 2017 findet der CycleHack in diesem Jahr zum dritten Mal in Berlin statt.</p>\n"
   blog_title: 'Aus dem Blog:'
 about:
   title: Was ist ein CycleHack?
@@ -47,12 +45,12 @@ partners:
   title: Partner und Sponsoren
   content: Wir suchen noch Partner und Sponsoren, die unsere Veranstaltung im September
     unterstützen – finanziell oder durch Sachspenden für Material, Werkzeug und Geräte,
-    sowie Essen und Getränke für die Teilnehmer. <a href="/downloads/slidedeck_sponsoring_2017.pdf">Mehr
+    sowie Essen und Getränke für die Teilnehmer. <a href="/downloads/slidedeck_sponsoring_2018.pdf">Mehr
     Infos [PDF]</a>
   help_out: Helft mit!
   volunteers: <p>CycleHack Berlin wird komplett von Freiwilligen organisiert.</p>
     <p>Du willst uns dabei helfen, dass der Event ein Erfolg wird? Wir suchen Helfer,
-    Coaches und Sponsoren. <a href="mailto:info@cyclehackberlin.de">Melde dich bei
+    und Coaches. <a href="mailto:info@cyclehackberlin.de">Melde dich bei
     uns!</a></p>
   gold:
   - name: Fab Lab Berlin
@@ -65,6 +63,9 @@ partners:
     logo: dbopendata.png
     url: http://data.deutschebahn.com/apis/
   silver:
+  - name: ADFC
+    logo: adfc.svg
+    url: http://adfc-berlin.de/
   - name: eMO
     logo: emo.png
     url: http://www.emo-berlin.de/
@@ -89,4 +90,4 @@ newsletter:
 layout: home
 ---
 
-Vom 15. bis 17. September 2017 bringen wir Fahrradschrauber*innen, Designer*innen, Programmierer*innen, Aktivist*innen und viele andere zusammen, um gemeinsam an Ideen für die Fahrradstadt Berlin zu arbeiten.
+Vom 14. bis 16. September 2018 bringen wir Fahrradschrauber*innen, Designer*innen, Programmierer*innen, Aktivist*innen und viele andere zusammen, um gemeinsam an Ideen für die Fahrradstadt Berlin zu arbeiten.

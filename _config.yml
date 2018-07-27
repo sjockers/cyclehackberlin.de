@@ -20,3 +20,5 @@ baseurl:
 url: http://cyclehackberlin.de
 gems:
 - jekyll-redirect-from
+exclude:
+- vendor

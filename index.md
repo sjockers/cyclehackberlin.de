@@ -4,8 +4,8 @@ intro:
   tagline: Neue Ideen für die Fahrradstadt Berlin
   date: 14. bis 16. September
   more: Was ist ein CycleHack?
-  join: Mitmachen
-  join_url: "/mitmachen/"
+  join: Jetzt Anmelden!
+  join_url: "https://www.eventbrite.de/e/cyclehack-berlin-2018-tickets-48362363130"
   content: 'Für 48 Stunden arbeiten wir gemeinsam daran, Radfahren in Berlin besser
     und sicherer zu machen.
 

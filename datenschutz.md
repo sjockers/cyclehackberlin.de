@@ -132,6 +132,16 @@ The Rocket Science Group LLC d/b/a MailChimp ist unter dem [Privacy-Shield-Abkom
 
 Der Versanddienstleister kann die Daten der Empfänger in pseudonymer Form, d.h. ohne Zuordnung zu einem NutzerInnen, zur Optimierung oder Verbesserung der eigenen Services nutzen, z.B. zur technischen Optimierung des Versandes und der Darstellung der Newsletter oder für statistische Zwecke verwenden. Der Versanddienstleister nutzt die Daten unserer Newsletterempfänger jedoch nicht, um diese selbst anzuschreiben oder um die Daten an Dritte weiterzugeben.
 
+### Event-Anmeldung – Eventbrite
+
+Wir nutzen fur die Anmeldung zu unseren Veranstaltungen den Ticketdienstleister Eventbrite. Die Datenerfassung im Rahmen der Anmeldung erfolgt auf Grundlage einer Einwilligung der Empfänger gem. Art. 6 Abs. 1 lit. a, Art. 7 DSGVO i.V.m § 7 Abs. 2 Nr. 3 UWG oder falls eine Einwilligung nicht erforderlich ist, auf Grundlage unserer berechtigten Interessen am Direktmarketing gem. Art. 6 Abs. 1 lt. f. DSGVO i.V.m. § 7 Abs. 3 UWG.
+
+Für die Anmeldung zu unseren Veranstaltungen erheben wir von Ihren personenbezogene Daten wie Ihren Namen, Ihre E-Mail-Adresse, die Anzahl der gekauften Tickets und Ihre Zahlungsart. Wir verarbeiten die von im Rahmen der Anmeldung erhobenen Daten zur Vorbereitung, Durchführung und Nachbereitung der jeweiligen Veranstaltung, zu der Sie sich angemeldet haben. Eventbrite speichert Ihre Daten als Nutzungsprofile und nutzt sie für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten Gestaltung seiner Website. Ihnen steht ein Widerspruchsrecht zu gegen die Bildung dieser Nutzerprofile, wobei Sie sich zur Ausübung dessen an Eventbrite richten müssen. 
+
+Eventbrite Inc. ist ein in Delaware gemeldetes Unternehmen mit Hauptsitz in 155 5th Street, Floor 7, San Francisco, CA 94103, Reg. No. 4742147, USA ("Eventbrite", "wir", "uns" usw.). Für Benutzer, die im Europäischen Wirtschaftsraum ("EWR") oder in der Schweiz ansässig sind, fungiert Eventbrite Inc. in Bezug auf die über die Services erfassten personenbezogenen Daten (wie nachfolgend definiert) als Verantwortlicher. Eventbrites Vertretung zum Zwecke der europäischen Datenschutzgesetzgebung ist die Eventbrite NL BV mit Sitz in Silodam 402, 1013AW, Amsterdam, Niederlande. 
+
+Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch Eventbrite erhalten Sie in der  [Datenschutzerklärung von Eventbrite]( https://www.eventbrite.de/support/articles/de/Troubleshooting/datenschutzrichtlinien-von-eventbrite?lg=de). Dort erhalten Sie auch Informationen zu Ihren Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Eventbrite verarbeitet Ihre personenbezogenen Daten auch in den USA und nimmt zu diesem Zweck am EU-US-Datenschutzschild-Rahmenprogramm teil: https://www.privacyshield.gov/EU-US-Framework.
+
 ### Hosting und E-Mail-Versand
 
 Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, E-Mail-Versand, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.

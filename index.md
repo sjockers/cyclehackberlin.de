@@ -53,7 +53,31 @@ partners:
     <p>Du willst uns dabei helfen, dass der Event ein Erfolg wird? Wir suchen Helfer,
     und Coaches. <a href="mailto:info@cyclehackberlin.de">Melde dich bei uns!</a></p>
   gold: 
-  silver: 
+  - name: IXDS
+    logo: ixds.png
+    url: https://www.ixds.com/
+  - name: BRLO
+    logo: brlo.svg
+    url: http://www.brlo.de/
+  - name: Coffee Circle
+    logo: coffeecircle.png
+    url: https://www.coffeecircle.com/
+  silver:
+  - name: Velokonzept
+    logo: velokonzept.png
+    url: http://velokonzept.de/
+  - name: Fuxblau
+    logo: fuxblau.png
+    url: https://www.fuxblau.de/
+  - name: DB Open Data
+    logo: dbopendata.png
+    url: http://data.deutschebahn.com/apis/
+  - name: Boreal Bikes
+    logo: borealbikes.png
+    url: https://www.facebook.com/borealbikes/   
+  - name: Space3000
+    logo: space3000.png
+    url: http://www.brlo.de/en/
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

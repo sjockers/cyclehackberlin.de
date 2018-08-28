@@ -52,7 +52,7 @@ partners:
   volunteers: <p>CycleHack Berlin wird komplett von Freiwilligen organisiert.</p>
     <p>Du willst uns dabei helfen, dass der Event ein Erfolg wird? Wir suchen Helfer,
     und Coaches. <a href="mailto:info@cyclehackberlin.de">Melde dich bei uns!</a></p>
-  gold: 
+  gold:
   - name: IXDS
     logo: ixds.png
     url: https://www.ixds.com/
@@ -74,7 +74,7 @@ partners:
     url: http://data.deutschebahn.com/apis/
   - name: Boreal Bikes
     logo: borealbikes.png
-    url: https://www.facebook.com/borealbikes/   
+    url: https://www.facebook.com/borealbikes/
   - name: Space3000
     logo: space3000.png
     url: http://www.brlo.de/en/

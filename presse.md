@@ -1,17 +1,18 @@
 ---
-layout: contact
+title: Presse
 redirect_from:
 - "/presse-und-media/"
 - "/presse/"
+layout: contact
 ---
 
 ## Presse
 
 #### Ansprechpartner
-Simon Jockers
 
-simon (ät) cyclehackberlin.de \\
-+49 (0)175 59 25 122
+Michael Hörz 
 
-- [Pressemeldung zum Download](/downloads/cyclehack-pressemeldung-2017.pdf)
-- [Media-Kit mit Logo, Fotos und Materialien zum Download](/downloads/mediakit.zip)
++49 (0)170 516 5453 \\
+michael (at) cyclehackberlin.de
+
+[Media-Kit mit Logo, Fotos und Materialien zum Download](/downloads/mediakit.zip)

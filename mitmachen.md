@@ -2,7 +2,7 @@
 title: CycleHack Berlin 2017
 permalink: "/mitmachen/"
 join:
-  time: 14.09.2018
+  date: 2018-09-14 20:18:00 Z
   venue: Bei IXDS in Kreuzberg
   more: Zur Anmeldung
   more_url: https://www.eventbrite.de/e/cyclehack-berlin-2018-tickets-48362363130

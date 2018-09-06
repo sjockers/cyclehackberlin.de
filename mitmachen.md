@@ -1,5 +1,5 @@
 ---
-title: CycleHack Berlin 2017
+title: CycleHack Berlin 2018 / Programm
 permalink: "/mitmachen/"
 join:
   date: 2014-01-01 00:00:00 Z
@@ -13,7 +13,7 @@ join:
 schedule:
 - date: 2014-01-01 00:00:00 Z
   items:
-  - time: 18.3
+  - time: '18:30'
     name: Begrüßung
   - time: '19:00'
     name: Inspirational Talks

@@ -2,7 +2,7 @@
 title: CycleHack Berlin 2017
 permalink: "/mitmachen/"
 join:
-  date: 2014-01-01 00:00:00 Z
+  date: 14. bis 16. September
   venue: Bei IXDS in Kreuzberg
   more: Zur Anmeldung
   more_url: https://www.eventbrite.de/e/cyclehack-berlin-2018-tickets-48362363130
@@ -11,7 +11,7 @@ join:
   teaser: 48 Stunden voller neuer Ideen, Projekte und Kampagnen für besseres Radfahren
     in Berlin. Macht mit!
 schedule:
-- date: 2014-01-01 00:00:00 Z
+- date: Freitag, 14. September 2018
   items:
   - time: '18:00'
     name: 'Einlass '
@@ -25,7 +25,7 @@ schedule:
   - time: '20:00'
     name: Ideenfindung und Gruppenbildung
     content: 
-- date: 2015-01-01 00:00:00 Z
+- date: Samstag, 15. September 2018
   items:
   - time: '09:30'
     name: Einführung und Aufteilung in Teams
@@ -38,7 +38,7 @@ schedule:
     name: Gemeinsames Grillen
   - time: '21:00'
     name: Abendprogramm
-- date: 2016-01-01 00:00:00 Z
+- date: Sonntag, 16. September 2018
   items:
   - time: '10:00'
     name: Resümee und Kick-Off

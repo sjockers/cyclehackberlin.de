@@ -16,7 +16,7 @@ schedule:
   - time: '18:00'
     name: 'Einlass '
     content: 
-  - time: 18.3
+  - time: '18:30'
     name: Begrüßung
     content: 
   - time: '19:00'

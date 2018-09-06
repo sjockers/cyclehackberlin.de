@@ -15,4 +15,4 @@ Michael Hörz
 +49 (0)170 516 5453 \\
 michael (at) cyclehackberlin.de
 
-[Media-Kit mit Logo, Fotos und Materialien zum Download](/downloads/mediakit.zip)
+[Media-Kit mit Logo, Fotos und Materialien zum Download](/downloads/pressekit_cyclehack_2018.zip)

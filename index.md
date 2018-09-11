@@ -2,7 +2,7 @@
 title: CycleHack Berlin 2018
 intro:
   tagline: Neue Ideen für die Fahrradstadt Berlin
-  date: 14. bis 16. September
+  date: 2014-01-01 00:00:00 Z
   more: Was ist ein CycleHack?
   join: Jetzt Anmelden!
   join_url: https://www.eventbrite.de/e/cyclehack-berlin-2018-tickets-48362363130
@@ -77,7 +77,7 @@ partners:
     url: https://www.facebook.com/borealbikes/
   - name: Space3000
     logo: space3000.png
-    url: http://www.brlo.de/en/
+    url: https://www.space3000.de/
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

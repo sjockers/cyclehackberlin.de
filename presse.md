@@ -10,9 +10,9 @@ layout: contact
 
 #### Aktuelles
 
-* RadioEins vom rbb am 11. September 2018 [über den CycleHack 2018](https://www.radioeins.de/programm/sendungen/der_schoene_morgen/rad/cyclehack-berlin.html)
+* RadioEins vom rbb [über den CycleHack 2018](https://www.radioeins.de/programm/sendungen/der_schoene_morgen/rad/cyclehack-berlin.html)(11.09.2018)
 
-* Fahrrad-Blog des Tagesspiegels [zum CycleHack Berlin](https://www.tagesspiegel.de/sport/liveblog/der-fahrrad-blog-des-tagesspiegel-hacker-wollen-berliner-fahrradverkehr-verbessern/19996818.html)
+* Fahrrad-Blog des Tagesspiegels [zum CycleHack Berlin](https://www.tagesspiegel.de/sport/liveblog/der-fahrrad-blog-des-tagesspiegel-hacker-wollen-berliner-fahrradverkehr-verbessern/19996818.html)(06.09.2018)
 
 
 #### Ansprechpartner

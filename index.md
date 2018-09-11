@@ -78,6 +78,9 @@ partners:
   - name: Space3000
     logo: space3000.png
     url: https://www.space3000.de/
+  - name: GraphHopper
+    logo: "/uploads/graphhopper-logo-small.png"
+    url: https://www.graphhopper.com/de/
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

@@ -10,7 +10,7 @@ layout: contact
 
 #### Aktuelles
 
-[RadioEins vom rbb](https://www.radioeins.de/programm/sendungen/der_schoene_morgen/rad/cyclehack-berlin.html) am 11. September 2018 über den CycleHack 2018
+RadioEins vom rbb am 11. September 2018 [über den CycleHack 2018](https://www.radioeins.de/programm/sendungen/der_schoene_morgen/rad/cyclehack-berlin.html)
 
 
 

@@ -17,4 +17,4 @@ michael (at) cyclehackberlin.de
 
 [Media-Kit mit Logo, Fotos und Materialien zum Download](/downloads/pressekit_cyclehack_2018.zip)
 
-Fotos im Kit: Matthias Grytzka 
+Fotos im Kit: Matthias Grytzka

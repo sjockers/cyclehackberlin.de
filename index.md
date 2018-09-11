@@ -2,7 +2,7 @@
 title: CycleHack Berlin 2018
 intro:
   tagline: Neue Ideen für die Fahrradstadt Berlin
-  date: 2014-01-01 00:00:00 Z
+  text: 14.-16. September
   more: Was ist ein CycleHack?
   join: Jetzt Anmelden!
   join_url: https://www.eventbrite.de/e/cyclehack-berlin-2018-tickets-48362363130

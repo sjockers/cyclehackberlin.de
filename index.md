@@ -79,7 +79,7 @@ partners:
     logo: space3000.png
     url: https://www.space3000.de/
   - name: Bauhaus Hasenheide
-    logo: bauhaus.jpg
+    logo: bauhaus.png
     url: https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-berlin-neukoelln/fc/814
   - name: GraphHopper
     logo: graphhopper.png

@@ -2,7 +2,7 @@
 title: CycleHack Berlin 2018
 intro:
   tagline: Neue Ideen für die Fahrradstadt Berlin
-  text: 14. bis 16. September
+  date: 14. bis 16. September
   more: Was ist ein CycleHack?
   join: Jetzt Anmelden!
   join_url: https://www.eventbrite.de/e/cyclehack-berlin-2018-tickets-48362363130
@@ -79,8 +79,11 @@ partners:
     logo: space3000.png
     url: https://www.space3000.de/
   - name: GraphHopper
-    logo: "/graphhopper-logo-small.png"
+    logo: graphhopper.png
     url: https://www.graphhopper.com/de/
+  - name: Bauhaus Hasenheide
+    logo: bauhaus.jpg
+    url: https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-berlin-neukoelln/fc/814
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

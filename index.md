@@ -75,12 +75,12 @@ partners:
   - name: Boreal Bikes
     logo: borealbikes.png
     url: https://www.facebook.com/borealbikes/
-  - name: Space3000
-    logo: space3000.png
-    url: https://www.space3000.de/
   - name: GraphHopper
     logo: graphhopper.png
     url: https://www.graphhopper.com/de/
+  - name: Space3000
+    logo: space3000.png
+    url: https://www.space3000.de/
   - name: Bauhaus Hasenheide
     logo: bauhaus.jpg
     url: https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-berlin-neukoelln/fc/814

@@ -1,5 +1,5 @@
 ---
-title: CycleHack Berlin 2018
+title: CycleHack Berlin 2019
 intro:
   tagline: Neue Ideen für die Fahrradstadt Berlin
   date: 11. bis 13. Oktober

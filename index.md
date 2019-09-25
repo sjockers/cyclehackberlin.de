@@ -46,7 +46,7 @@ partners:
     <p>Du willst uns dabei helfen, dass der Event ein Erfolg wird? Wir suchen Helfer,
     Sponsoren und Coaches. <a href="mailto:info@cyclehackberlin.de">Melde dich bei
     uns!</a></p>
-  gold:
+  gold: 
   silver:
   - name: Berlin Partner
     logo: berlinpartner.png

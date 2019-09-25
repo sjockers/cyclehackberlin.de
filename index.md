@@ -47,34 +47,19 @@ partners:
     Sponsoren und Coaches. <a href="mailto:info@cyclehackberlin.de">Melde dich bei
     uns!</a></p>
   gold:
-  - name: IXDS
-    logo: ixds.png
-    url: https://www.ixds.com/
-  - name: BRLO
-    logo: brlo.svg
-    url: http://www.brlo.de/
-  - name: Coffee Circle
-    logo: coffeecircle.png
-    url: https://www.coffeecircle.com/
   silver:
-  - name: Velokonzept
-    logo: velokonzept.png
-    url: http://velokonzept.de/
-  - name: Fuxblau
-    logo: fuxblau.png
-    url: https://www.fuxblau.de/
-  - name: DB Open Data
-    logo: dbopendata.png
-    url: http://data.deutschebahn.com/apis/
+  - name: Berlin Partner
+    logo: berlinpartner.png
+    url: https://www.berlin-partner.de/
+  - name: Velo Berlin
+    logo: veloberlin.png
+    url: https://veloberlin.com/
+  - name: Motion Lab Berlin
+    logo: motionlabberlin.png
+    url: https://motionlab.berlin/
   - name: Boreal Bikes
     logo: borealbikes.png
-    url: https://www.facebook.com/borealbikes/
-  - name: Space3000
-    logo: space3000.png
-    url: https://www.space3000.de/
-  - name: GraphHopper
-    logo: graphhopper.png
-    url: https://www.graphhopper.com/de/
+    url: https://borealbikes.de/
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

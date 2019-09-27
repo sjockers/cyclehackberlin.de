@@ -3,12 +3,16 @@
   color: $brand-color;
 }
 
+.speakers__time {
+    color: $grey-color;
+  }
+
 .speakers__portraits {
   overflow: hidden;
   line-height: 1.5;
   text-align: center;
   margin: 0;
-  padding: 0;
+  padding: 0.5em 0 2em 0;
   width: 100%;
 
   li {
@@ -27,7 +31,7 @@
   }
 
   img {
-      width: 100%;
+      width: 80%;
       max-width: 220px;
       display: inline-block;
       margin-bottom: 0.5em;

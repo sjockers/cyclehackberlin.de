@@ -29,17 +29,20 @@ about:
   join: Mitmachen
   content: "<p>Ein CycleHack ist eine Idee, die Menschen aufs Rad bringen soll und
     schnell als Prototyp umgesetzt und getestet werden kann.</p> <p>CycleHacks können
-    physische Produkte sein, digitale Anwendungen, Kampagnen, oder Ideen zur Fahrradinfrastruktur.
-    Wir wollen verschiedene Disziplinen und Perspektiven zusammenbringen, um gemeinsam
-    innovative Lösungen zu finden.</p> <p>Physische Hacks – Ideen, Basteleien und
+    physische Produkte sein, digitale Anwendungen, Kampagnen, oder Ideen zur 
+    Fahrradinfrastruktur. Wir wollen verschiedene Disziplinen und Perspektiven 
+    zusammenbringen, um gemeinsam innovative Lösungen zu finden.</p> 
+    <p><b>Physische Hacks</b> – Ideen, Basteleien und
     Prototypen für Produkte, die kleine alltägliche Hindernisse fürs Radfahren abbauen:
     DIY-Fahrradzubehör, Kleidung und andere Dinge, die das Fahrradfahren besser machen.</p>
-    <p>Digitale Hacks – Websites und Apps rund ums Radfahren, Interaktive Visualisierungen
-    auf Basis von Open Data und alles andere, das mit Hardware und Software zu tun
-    hat.</p> <p>Aktionen und Kampagnen – Hackt eure Umwelt! Ihr wollt mehr Fahrradwege,
+    <p><b>Digitale Hacks</b> – Websites und Apps rund ums Radfahren, Interaktive 
+    Visualisierungen auf Basis von Open Data und alles andere, das mit Hardware und 
+    Software zu tun hat.</p> 
+    <p><b>Aktionen und Kampagnen</b> – Hackt eure Umwelt! Ihr wollt mehr Fahrradwege,
     bessere Ampelschaltungen und sichere Abstellplätze? Hier geht es um Aktionen und
     Kampagnen, die für fahrradfreundlichere Städte sorgen.</p>"
 speakers:
+  title: Programm 2019
   keynotes: 
     title: "Freitag: Impulsvorträge und Ideen"
     time: 11. Oktober 2019 ab 19:00 Uhr
@@ -61,17 +64,20 @@ speakers:
     - name: David Bermbach
       image: bermbach.jpg
       affiliations:
-        - url: https://www.mcc.tu-berlin.de/menue/team/prof_dr_ing_david_bermbach/
-          name: TU Berlin 
         - url: https://www.digital-future.berlin/
           name: Einstein Center Digital Future
+        - url: https://www.mcc.tu-berlin.de/menue/team/prof_dr_ing_david_bermbach/
+          name: TU Berlin 
     - name: Heinrich Stößenreuther
       image: stoessenreuther.jpg
       affiliations:
         - url: https://www.clevere-staedte.de/
           name: Initiative Clevere Städte
         - url: https://volksentscheid-fahrrad.de/
-          name: Volksentscheid Fahrrad         
+          name: Volksentscheid Fahrrad
+  hackathon: 
+    title: "Samstag und Sonntag: Hackathon"
+    time: 11. und 12. Oktober 2019      
 partners:
   title: Partner und Sponsoren
   help_out: Helft mit!

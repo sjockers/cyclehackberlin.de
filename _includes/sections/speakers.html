@@ -1,4 +1,6 @@
 <div class="section__main--center">
+  
+  <h1>{{ page.speakers.title }}</h1>
 
   <h2 class="speakers__title">{{ page.speakers.keynotes.title }}</h2>
   <p class="speakers__time">{{ page.speakers.keynotes.time }}</p>
@@ -10,15 +12,22 @@
         <h3 class="speakers__name">{{ speaker.name }}</h3>
         <ul class="speakers__affiliations">
         {% for affiliation in speaker.affiliations %}
-            <li>
-                <a href="{{ affiliation.url }}" target="_blank" rel="noopener noreferrer">
-                    {{ affiliation.name }}
-                </a>
-            </li>
+          <li>
+            <a href="{{ affiliation.url }}" target="_blank" rel="noopener noreferrer">
+              {{ affiliation.name }}
+            </a>
+          </li>
         {% endfor %}
         </ul>
       </li>
     {% endfor %}
   </ul>
+
+  <h2 class="speakers__title">{{ page.speakers.hackathon.title }}</h2>
+  <p class="speakers__time">{{ page.speakers.hackathon.time }}</p>
+
+  <p>Gemeinsam entwickelten wir Ideen und Prototypen für Kampagnen, digitale Tools und Fahrrad-Hacks um die alltäglichen Hindernisse abzubauen, die Menschen vom Radfahren abhalten.</p>
+
+  <a href="{{ page.intro.join_url }}" class="call-to-action">{{ page.intro.join }}</a>
 
 </div>

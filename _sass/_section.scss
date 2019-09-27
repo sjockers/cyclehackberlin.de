@@ -26,6 +26,17 @@
   }
 }
 
+.section__main--center {
+    @extend .section__main;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    
+    @include media-query($screen-lg) {
+        width: 980px;
+    }
+  }
+
 .section__sidebar {
   display: block;
   padding: 0 $spacing-unit;
@@ -101,3 +112,4 @@
 .section--newsletter {
   background-color: #efefef;
 }
+

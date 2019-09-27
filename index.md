@@ -39,6 +39,39 @@ about:
     hat.</p> <p>Aktionen und Kampagnen – Hackt eure Umwelt! Ihr wollt mehr Fahrradwege,
     bessere Ampelschaltungen und sichere Abstellplätze? Hier geht es um Aktionen und
     Kampagnen, die für fahrradfreundlichere Städte sorgen.</p>"
+speakers:
+  keynotes: 
+    title: "Freitag: Impulsvorträge und Ideen"
+    time: 11. Oktober 2019 ab 19:00 Uhr
+  portraits:
+    - name: Ulrike Saade
+      image: saade.jpg
+      affiliations:
+        - url: https://veloberlin.com/home.html
+          name: Velo Berlin
+        - url: https://www.velokonzept.de/
+          name: Velokonzept  
+    - name: Tobias Jordans
+      image: jordans.jpg
+      affiliations:
+        - url: https://twitter.com/osmberlin
+          name: OpenStreetMap Berlin
+        - url: https://www.betterplace.org/
+          name: Betterplace.org 
+    - name: David Bermbach
+      image: bermbach.jpg
+      affiliations:
+        - url: https://www.mcc.tu-berlin.de/menue/team/prof_dr_ing_david_bermbach/
+          name: TU Berlin 
+        - url: https://www.digital-future.berlin/
+          name: Einstein Center Digital Future
+    - name: Heinrich Stößenreuther
+      image: stoessenreuther.jpg
+      affiliations:
+        - url: https://www.clevere-staedte.de/
+          name: Initiative Clevere Städte
+        - url: https://volksentscheid-fahrrad.de/
+          name: Volksentscheid Fahrrad         
 partners:
   title: Partner und Sponsoren
   help_out: Helft mit!

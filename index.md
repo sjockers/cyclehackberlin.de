@@ -4,7 +4,7 @@ intro:
   tagline: Neue Ideen für die Fahrradstadt Berlin
   date: 11. bis 13. Oktober
   more: Was ist ein CycleHack?
-  join: Jetzt Anmelden!
+  join: Jetzt anmelden!
   join_url: https://cyclehackberlin.eventbrite.de
   content: Für 48 Stunden arbeiten wir gemeinsam daran, Radfahren in Berlin besser
     und sicherer zu machen.
@@ -20,8 +20,8 @@ teaser:
     Designer*innen, Aktivist*innen, Programmierer*innen und viele andere zusammen.
     Gemeinsam entwickelten wir Ideen und Prototypen, um die alltäglichen Hindernisse
     abzubauen, die Menschen vom Radfahren abhalten.</p> <p>CycleHack ist ein globales
-    Event, das gleichzeitig in über 30 Städten organisiert wird. Nach 2016, 2017 und
-    2018 findet der CycleHack in diesem Jahr zum vierten Mal in Berlin statt.</p>"
+    Event, das in über 30 Städten organisiert wird. Nach 2016, 2017 und
+    2018 findet der CycleHack in diesem Jahr zum vierten Mal auch in Berlin statt.</p>"
   blog_title: 'Aus dem Blog:'
 about:
   title: Was ist ein CycleHack?

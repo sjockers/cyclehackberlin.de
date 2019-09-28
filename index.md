@@ -76,7 +76,7 @@ speakers:
       name: Volksentscheid Fahrrad
   hackathon:
     title: 'Samstag und Sonntag: Hackathon'
-    time: 11. und 12. Oktober 2019
+    time: 12. und 13. Oktober 2019
 partners:
   title: Partner und Sponsoren
   help_out: Helft mit!

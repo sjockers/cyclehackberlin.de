@@ -92,18 +92,24 @@ partners:
   - name: Velo Berlin
     logo: veloberlin.png
     url: https://veloberlin.com/
-  - name: Boreal Bikes
-    logo: borealbikes.png
-    url: https://borealbikes.de/
   - name: Motion Lab Berlin
     logo: motionlabberlin.png
     url: https://motionlab.berlin/
-  - name: Graphhopper
-    logo: graphhopper.png
-    url: https://www.graphhopper.com/
+  - name: LPG
+    logo: lpg.png
+    url: https://www.lpg-biomarkt.de/
   - name: Activy
     logo: activy.png
     url: https://activy.bike/
+  - name: Boreal Bikes
+    logo: borealbikes.png
+    url: https://borealbikes.de/
+  - name: Komoot
+    logo: komoot.png
+    url: https://komoot.com/
+  - name: Graphhopper
+    logo: graphhopper.png
+    url: https://www.graphhopper.com/
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse

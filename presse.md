@@ -8,7 +8,15 @@ layout: contact
 
 ## Presse
 
-#### Aktuelles
+### Ansprechpartner
+
+Michael Hörz, +49 170 516 5453, michael (at) cyclehackberlin.de
+
+### Pressespiegel 2019
+
+* _[todo / please contribute](https://github.com/sjockers/cyclehackberlin.de/edit/gh-pages/presse.md)_
+
+### Pressespiegel 2018
 
 * RadioEins vom rbb - Sendung "Der Schöne Morgen": [Reportergespräch über den CycleHack 2018](https://www.radioeins.de/programm/sendungen/der_schoene_morgen/rad/cyclehack-berlin1.html) (17.09.2018)
 
@@ -18,14 +26,6 @@ layout: contact
 
 * Fahrrad-Blog des Tagesspiegels [zum CycleHack Berlin](https://www.tagesspiegel.de/sport/liveblog/der-fahrrad-blog-des-tagesspiegel-hacker-wollen-berliner-fahrradverkehr-verbessern/19996818.html) (06.09.2018)
 
+### Mediakit 
 
-#### Ansprechpartner
-
-Michael Hörz 
-
-+49 (0)170 516 5453 \\
-michael (at) cyclehackberlin.de
-
-[Media-Kit mit Logo, Fotos und Materialien zum Download](/downloads/pressekit_cyclehack_2018.zip)
-
-Fotos im Kit: Matthias Grytzka
+[Media-Kit 2018 mit Logo, Fotos und Materialien zum Download](/downloads/pressekit_cyclehack_2018.zip), Fotos: Matthias Grytzka

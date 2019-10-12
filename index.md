@@ -77,16 +77,16 @@ speakers:
   hackathon:
     title: 'Samstag und Sonntag: Hackathon'
     time: 12. und 13. Oktober 2019
-    description: Gemeinsam entwickelten wir Ideen und Prototypen für Kampagnen, digitale Tools und Fahrrad-Hacks um die alltäglichen Hindernisse abzubauen, die Menschen vom Radfahren abhalten.
-  presentations: 
+    description: Gemeinsam entwickelten wir Ideen und Prototypen für Kampagnen, digitale
+      Tools und Fahrrad-Hacks um die alltäglichen Hindernisse abzubauen, die Menschen
+      vom Radfahren abhalten.
+  presentations:
     title: 'Sonntag: Öffentliche Abschlusspräsentation'
     time: 13. Oktober 2019 ab 14:00 Uhr
   address: |
     MOTIONLAB.BERLIN
     Bouchestraße 12 | Halle 20
     12435 Berlin
-
-
 partners:
   title: Partner und Sponsoren
   help_out: Helft mit!

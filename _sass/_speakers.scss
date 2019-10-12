@@ -38,12 +38,15 @@
   }
 }
 
+.speakers__address {
+  white-space: pre;
+}
+
 .speakers__name {
   padding: 0.2em;
   margin: 0;
   line-height: 1.2;
   display: block;
-
 }
 
 .speakers__affiliations {

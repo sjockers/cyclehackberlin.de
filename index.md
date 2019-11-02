@@ -120,6 +120,9 @@ partners:
   - name: Graphhopper
     logo: graphhopper.png
     url: https://www.graphhopper.com/
+  - name: Velove
+    logo: velove.png
+    url: https://www.velove.se/    
 newsletter:
   title: Bleib auf dem Laufenden
   email: Email-Addresse
